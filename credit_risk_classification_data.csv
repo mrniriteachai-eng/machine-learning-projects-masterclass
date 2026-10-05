@@ -1,0 +1,1501 @@
+Customer_ID,Age,Employment_Status,Education,Monthly_Income,Monthly_Debt,Number_of_Loans,Credit_History_Years,Previous_Defaults,Payment_History_Score,Loan_Amount,Loan_Term_Months,Credit_Card,Savings_Account,Credit_Risk
+10001,59,Employed,Master,176050,100468,1,3.1,4,3.0,582310,12,1,1,High Risk
+10002,49,Unemployed,Master,102592,112258,5,9.2,3,3.8,523959,60,1,1,High Risk
+10003,35,Self-Employed,Master,58169,64749,5,16.7,4,3.3,222996,24,0,1,High Risk
+10004,63,Self-Employed,Bachelor,69745,39672,2,6.4,4,4.3,909105,48,1,1,High Risk
+10005,28,Employed,Bachelor,125168,14731,7,9.6,2,1.3,509479,24,0,1,High Risk
+10006,41,Employed,High School,128985,55512,7,5.8,5,3.8,421998,60,1,1,High Risk
+10007,59,Employed,Master,282687,99658,6,9.5,0,3.1,586070,48,1,1,Low Risk
+10008,39,Employed,Bachelor,202464,52024,2,17.8,4,2.5,475360,36,1,1,High Risk
+10009,43,Employed,Bachelor,36067,117712,2,9.4,5,2.4,720373,12,1,1,High Risk
+10010,31,Self-Employed,Bachelor,66033,102121,0,11.3,1,3.5,907148,60,1,1,Low Risk
+10011,31,Employed,High School,60256,4832,5,8.4,3,4.6,511525,12,1,1,Low Risk
+10012,44,Employed,Bachelor,236705,33332,5,9.5,1,3.0,914462,12,0,1,Low Risk
+10013,56,Unemployed,High School,254455,13467,7,0.8,3,4.3,868468,24,1,1,High Risk
+10014,60,Unemployed,Master,215417,42025,5,6.0,2,2.6,307486,60,1,0,High Risk
+10015,44,Unemployed,Bachelor,101803,14107,4,9.0,4,1.4,95745,12,1,1,High Risk
+10016,23,Unemployed,High School,218814,78994,2,12.9,0,1.2,948481,36,1,1,High Risk
+10017,42,Employed,Bachelor,133843,95202,3,9.3,4,1.2,244648,48,1,0,High Risk
+10018,22,Employed,High School,43992,44481,7,7.1,3,2.5,329540,60,1,1,High Risk
+10019,44,Self-Employed,Bachelor,227603,3581,1,8.1,0,2.3,124836,24,0,1,Low Risk
+10020,64,Self-Employed,Master,63803,76118,7,5.2,4,3.9,116998,60,1,0,High Risk
+10021,50,Employed,High School,209549,52638,6,18.5,0,4.0,60021,24,1,1,Low Risk
+10022,58,Self-Employed,Master,159282,9418,3,10.7,3,1.2,472273,48,1,1,High Risk
+10023,22,Employed,High School,41270,94627,6,0.8,2,1.9,530410,36,1,1,High Risk
+10024,41,Employed,High School,259929,30113,0,0.9,2,2.1,140672,12,1,0,Low Risk
+10025,53,Employed,Master,22452,85363,0,19.5,4,3.2,390703,60,0,1,Low Risk
+10026,32,Employed,Bachelor,29859,64044,6,4.8,1,1.6,863268,24,1,1,High Risk
+10027,42,Employed,High School,47083,80955,5,16.2,3,1.5,954579,48,1,0,High Risk
+10028,64,Employed,Bachelor,126462,62030,3,1.6,4,4.8,754875,12,1,1,High Risk
+10029,45,Unemployed,Bachelor,162735,12814,5,18.5,4,4.2,434018,48,1,1,High Risk
+10030,47,Employed,Master,264737,100340,7,17.6,2,1.7,743121,36,1,1,Low Risk
+10031,62,Employed,Bachelor,296197,11024,4,11.6,0,2.6,611305,12,1,1,Low Risk
+10032,48,Unemployed,Master,157157,64288,0,0.7,3,2.4,489969,12,1,1,High Risk
+10033,36,Unemployed,Master,205167,110236,0,5.5,0,4.2,775709,12,0,1,Low Risk
+10034,35,Unemployed,Bachelor,84517,58836,3,8.4,5,3.0,721182,24,1,1,High Risk
+10035,64,Self-Employed,Master,167225,8435,0,9.5,5,1.5,454819,12,0,0,High Risk
+10036,23,Self-Employed,Bachelor,151319,68084,4,6.3,3,4.0,374833,48,1,1,High Risk
+10037,57,Employed,PhD,241453,71601,4,1.1,1,2.6,90291,24,0,1,Low Risk
+10038,27,Employed,High School,151645,89416,4,12.0,5,2.1,886882,12,1,0,High Risk
+10039,41,Employed,Bachelor,94267,119645,1,10.7,2,2.5,700952,48,1,1,High Risk
+10040,29,Employed,Bachelor,153261,4407,4,6.0,1,3.0,590294,48,1,1,Low Risk
+10041,59,Employed,Bachelor,146004,99943,4,1.2,4,2.4,953773,60,1,0,High Risk
+10042,38,Self-Employed,Bachelor,68687,33940,1,19.9,5,2.0,638556,48,1,1,High Risk
+10043,24,Employed,Master,122615,6666,5,9.9,2,2.6,322282,36,1,1,Low Risk
+10044,45,Employed,High School,42564,38122,7,15.2,4,1.1,596686,12,1,1,High Risk
+10045,34,Employed,High School,22697,119647,2,9.3,1,4.1,231163,12,0,1,Low Risk
+10046,29,Self-Employed,Master,95165,26092,0,1.3,3,1.7,685234,12,1,1,High Risk
+10047,46,Employed,Bachelor,219994,76645,4,6.5,4,1.2,853660,48,1,1,High Risk
+10048,22,Unemployed,PhD,72823,102190,0,6.7,0,3.6,859102,48,0,1,Low Risk
+10049,40,Employed,Master,24615,101468,3,16.8,3,4.1,135613,12,0,0,Low Risk
+10050,48,Employed,PhD,91436,27505,0,13.3,3,4.3,112071,24,1,1,Low Risk
+10051,27,Employed,Master,206591,37713,6,5.9,1,3.0,515096,24,0,1,Low Risk
+10052,64,Self-Employed,Bachelor,49782,55387,5,19.4,1,1.8,120572,36,1,1,Low Risk
+10053,28,Employed,High School,93533,44169,7,6.8,2,3.9,782054,60,1,1,High Risk
+10054,55,Self-Employed,Master,255011,74282,1,20.0,2,3.8,148997,36,1,0,Low Risk
+10055,34,Employed,Bachelor,204327,78511,0,19.9,0,2.0,799539,12,0,1,Low Risk
+10056,37,Employed,High School,87684,52742,0,4.2,3,4.6,96388,12,1,0,High Risk
+10057,56,Unemployed,Bachelor,272165,41522,0,6.6,0,1.4,630007,12,1,1,High Risk
+10058,60,Self-Employed,PhD,230356,82132,2,10.0,0,4.9,652306,60,1,1,Low Risk
+10059,24,Self-Employed,Bachelor,231621,119764,2,13.4,1,4.4,824049,48,0,1,Low Risk
+10060,22,Unemployed,Bachelor,250295,104489,3,10.8,0,3.8,84258,60,1,1,Low Risk
+10061,26,Unemployed,Bachelor,266435,100397,1,19.4,0,4.8,846507,36,1,0,Low Risk
+10062,62,Self-Employed,High School,272424,4880,0,14.6,4,3.9,661286,48,1,1,Low Risk
+10063,24,Self-Employed,Bachelor,283782,44454,0,4.6,2,1.8,819063,48,1,1,Low Risk
+10064,49,Self-Employed,Bachelor,48377,56711,0,2.5,2,2.8,657408,36,0,0,High Risk
+10065,38,Self-Employed,High School,121244,44539,0,13.9,3,1.3,727804,48,1,1,High Risk
+10066,46,Self-Employed,Master,189188,109984,2,3.6,2,2.6,893590,24,1,0,High Risk
+10067,64,Self-Employed,Bachelor,228363,69321,5,15.9,5,4.0,519800,36,1,1,High Risk
+10068,54,Employed,Master,38382,88985,5,6.6,3,2.5,411099,36,1,1,High Risk
+10069,30,Unemployed,Master,261375,15799,3,6.9,4,2.3,947212,24,1,1,High Risk
+10070,56,Unemployed,High School,202135,115584,6,0.7,2,3.4,580509,60,1,1,High Risk
+10071,34,Employed,Bachelor,168466,105843,4,14.2,4,4.5,158269,60,0,1,Low Risk
+10072,51,Self-Employed,Bachelor,249318,61102,1,2.7,2,1.2,948638,60,1,1,High Risk
+10073,35,Employed,Master,146936,51726,5,15.6,2,2.5,378066,48,1,1,Low Risk
+10074,28,Employed,High School,138664,49784,6,10.1,4,1.6,43550,24,1,1,High Risk
+10075,34,Self-Employed,Bachelor,167027,114034,7,15.8,0,3.8,286786,36,1,1,Low Risk
+10076,43,Employed,Bachelor,118533,44333,7,11.9,0,1.4,947943,36,1,1,Low Risk
+10077,60,Self-Employed,Bachelor,262997,41828,0,2.1,0,3.7,640381,36,0,1,Low Risk
+10078,41,Self-Employed,High School,84590,70526,7,15.4,5,2.1,427799,48,1,1,High Risk
+10079,36,Employed,Bachelor,259936,55362,5,1.9,0,1.8,271188,48,1,0,Low Risk
+10080,65,Employed,Master,63924,54997,3,9.8,2,4.7,628173,60,1,1,Low Risk
+10081,38,Employed,Bachelor,24726,51341,4,3.9,1,1.1,613826,48,1,1,High Risk
+10082,44,Self-Employed,Bachelor,206896,20073,5,15.2,4,2.8,334158,60,1,1,High Risk
+10083,46,Unemployed,Bachelor,55542,103399,3,18.3,1,1.1,815955,60,1,1,High Risk
+10084,45,Self-Employed,Master,49753,15549,7,11.3,5,2.9,382429,36,1,1,High Risk
+10085,65,Employed,High School,298460,84795,2,10.8,1,3.0,735903,48,0,1,Low Risk
+10086,61,Self-Employed,Master,248979,57920,4,15.4,3,2.3,640167,60,1,1,High Risk
+10087,49,Employed,Bachelor,99698,86326,3,0.6,0,1.5,100629,24,1,1,Low Risk
+10088,35,Self-Employed,Bachelor,293104,76515,6,18.4,5,2.5,517704,24,1,1,High Risk
+10089,65,Employed,High School,45791,21316,5,4.4,2,3.7,348974,48,1,1,High Risk
+10090,21,Self-Employed,High School,88290,27183,2,19.7,0,4.1,317682,36,1,0,Low Risk
+10091,45,Employed,Bachelor,62014,94860,6,14.9,0,3.1,319454,36,1,1,Low Risk
+10092,27,Unemployed,Bachelor,150150,25624,3,15.6,1,3.4,938412,60,0,1,Low Risk
+10093,29,Employed,Master,65519,63515,3,13.3,3,1.8,125266,48,0,1,High Risk
+10094,44,Self-Employed,High School,281186,104712,7,9.7,0,2.1,198362,24,1,0,High Risk
+10095,21,Unemployed,Bachelor,64052,86781,6,11.6,4,1.6,456850,60,1,0,High Risk
+10096,64,Employed,Bachelor,29389,47705,5,1.4,4,2.0,809131,60,1,1,High Risk
+10097,28,Unemployed,High School,83111,90326,4,12.7,0,1.9,241241,12,1,1,High Risk
+10098,44,Self-Employed,High School,172753,27756,2,12.7,1,3.1,261249,48,1,1,Low Risk
+10099,31,Employed,Bachelor,104524,61390,7,17.9,1,3.3,76912,60,1,1,Low Risk
+10100,37,Employed,Bachelor,109913,69369,0,10.4,2,4.8,679615,24,1,1,Low Risk
+10101,28,Self-Employed,Bachelor,109108,71821,1,2.0,5,1.8,89183,12,0,1,High Risk
+10102,55,Employed,Bachelor,269803,10589,4,6.5,5,3.6,70282,24,1,1,Low Risk
+10103,55,Employed,Bachelor,284637,114012,7,13.3,5,4.3,68249,36,1,1,High Risk
+10104,53,Employed,High School,84639,15116,2,5.2,3,3.2,572464,12,1,1,High Risk
+10105,25,Self-Employed,Bachelor,246452,74181,6,6.0,1,2.0,542451,12,1,1,High Risk
+10106,62,Employed,PhD,149066,45786,3,16.5,2,2.1,850642,60,0,1,Low Risk
+10107,59,Unemployed,Bachelor,215352,95686,6,11.9,4,1.2,133844,36,1,1,High Risk
+10108,61,Unemployed,Bachelor,143674,77425,7,10.4,5,2.2,376731,60,1,1,High Risk
+10109,48,Unemployed,Bachelor,20594,31286,2,6.7,4,4.0,765640,48,1,1,High Risk
+10110,27,Self-Employed,Master,251907,104081,6,14.8,4,1.2,344123,24,1,1,High Risk
+10111,29,Employed,Master,284515,16994,6,6.1,0,1.9,613148,24,1,1,Low Risk
+10112,28,Self-Employed,Bachelor,62315,102039,1,14.9,3,3.8,162215,60,1,0,High Risk
+10113,32,Employed,PhD,229636,112915,5,1.9,2,4.1,801352,24,1,1,Low Risk
+10114,54,Employed,High School,142251,91198,7,17.4,3,2.8,617199,24,1,0,High Risk
+10115,53,Employed,High School,247520,105672,1,10.2,0,3.8,834428,48,1,1,Low Risk
+10116,43,Employed,Master,94526,27639,7,9.1,2,2.6,414964,36,1,1,Low Risk
+10117,44,Self-Employed,Master,258459,18205,0,12.4,2,1.6,366215,12,1,0,Low Risk
+10118,57,Self-Employed,High School,162698,57677,0,12.7,1,2.6,57252,60,0,1,Low Risk
+10119,55,Employed,Bachelor,252330,33930,1,3.1,3,3.3,919166,60,1,0,Low Risk
+10120,64,Employed,High School,120573,74313,4,15.2,3,4.8,466395,48,1,1,Low Risk
+10121,60,Unemployed,Bachelor,152900,94851,4,5.9,1,1.3,933954,48,1,1,High Risk
+10122,42,Employed,Master,250707,114153,6,18.1,4,3.0,62756,12,1,1,Low Risk
+10123,47,Employed,Bachelor,198736,93509,6,16.4,0,2.3,846667,36,1,1,Low Risk
+10124,55,Employed,Bachelor,163955,19316,3,7.3,3,3.0,362690,60,0,1,Low Risk
+10125,21,Self-Employed,Bachelor,189131,28304,0,16.3,1,1.1,403236,48,1,0,Low Risk
+10126,55,Self-Employed,High School,189004,102839,7,7.4,2,2.3,922234,60,1,1,High Risk
+10127,57,Employed,Bachelor,279179,97058,3,2.5,5,4.3,221325,24,1,1,High Risk
+10128,34,Employed,Bachelor,124767,88876,0,19.3,1,3.2,380565,60,1,1,Low Risk
+10129,23,Self-Employed,PhD,32241,86366,1,13.2,5,2.8,937168,36,1,1,High Risk
+10130,21,Self-Employed,Master,67975,14403,4,9.4,4,2.1,338779,36,1,1,High Risk
+10131,25,Employed,High School,169226,81052,6,8.3,0,2.2,819657,60,1,1,Low Risk
+10132,46,Unemployed,Master,71396,118478,4,6.8,5,2.5,209245,24,1,1,High Risk
+10133,34,Employed,Master,133920,85627,1,19.6,4,4.3,903317,36,0,1,Low Risk
+10134,59,Employed,Master,209999,74495,3,3.1,5,4.9,509264,48,1,1,High Risk
+10135,47,Unemployed,Bachelor,101226,32932,3,6.6,2,2.8,95333,60,1,1,High Risk
+10136,29,Employed,Bachelor,99719,97090,2,10.0,2,2.6,705585,24,0,0,High Risk
+10137,35,Self-Employed,Bachelor,78014,37701,6,9.8,2,4.4,282951,48,1,1,High Risk
+10138,35,Employed,High School,54346,4385,6,9.7,2,2.7,16402,60,1,1,High Risk
+10139,46,Employed,High School,85411,100226,7,3.9,1,3.2,14521,24,1,1,Low Risk
+10140,62,Unemployed,High School,200550,58241,6,3.3,2,1.9,728525,48,0,1,High Risk
+10141,33,Employed,Bachelor,158326,11367,0,5.5,2,4.0,785173,36,1,1,Low Risk
+10142,52,Unemployed,Master,201806,66030,3,18.3,1,3.1,911125,60,1,1,Low Risk
+10143,59,Employed,Bachelor,61121,47505,1,2.7,2,4.2,18382,60,0,1,Low Risk
+10144,52,Employed,High School,227490,34332,3,15.3,4,4.1,526243,36,1,1,Low Risk
+10145,24,Employed,PhD,99577,86178,4,15.3,4,1.9,907428,12,0,1,High Risk
+10146,50,Self-Employed,Master,264106,77325,0,16.3,3,3.9,505873,48,1,1,Low Risk
+10147,57,Employed,Master,150909,36268,6,17.8,4,4.2,549353,36,1,1,High Risk
+10148,43,Unemployed,PhD,16466,87486,7,5.6,0,2.4,357614,60,0,1,High Risk
+10149,59,Employed,Bachelor,244638,26563,7,4.9,0,1.7,24425,48,0,1,Low Risk
+10150,65,Unemployed,PhD,103422,106185,7,9.6,0,1.0,809543,48,1,1,High Risk
+10151,35,Employed,High School,279037,37404,5,5.7,1,2.8,181871,12,1,1,Low Risk
+10152,63,Unemployed,Bachelor,111907,56182,2,14.8,4,2.4,587545,60,0,1,High Risk
+10153,49,Self-Employed,High School,223434,33991,0,12.9,0,3.2,920422,24,1,1,Low Risk
+10154,56,Self-Employed,High School,233532,105601,4,17.6,3,1.8,726537,12,0,1,High Risk
+10155,33,Self-Employed,High School,273093,48663,6,2.1,1,4.4,924245,12,0,0,Low Risk
+10156,52,Self-Employed,Bachelor,167271,66886,4,18.3,3,2.0,353190,24,1,1,High Risk
+10157,27,Self-Employed,Master,220400,84848,4,6.2,4,1.9,834283,24,1,1,High Risk
+10158,42,Employed,Bachelor,182477,25127,6,10.1,2,2.9,543104,12,1,1,Low Risk
+10159,48,Employed,High School,244304,58692,4,9.1,3,3.0,481069,48,0,1,High Risk
+10160,22,Unemployed,Master,30989,95389,7,15.3,2,1.9,12175,36,0,1,High Risk
+10161,62,Self-Employed,Bachelor,286434,38500,1,8.7,1,2.1,283485,36,1,1,Low Risk
+10162,65,Self-Employed,Bachelor,136136,34785,2,18.9,3,1.7,860340,12,0,1,Low Risk
+10163,26,Employed,Bachelor,222370,85146,5,18.1,3,3.9,691014,48,1,1,Low Risk
+10164,48,Employed,Bachelor,141299,90126,4,17.5,5,4.1,464111,24,1,1,High Risk
+10165,48,Employed,Bachelor,176205,95979,4,1.9,1,2.8,593984,12,1,1,Low Risk
+10166,64,Self-Employed,Master,258688,48997,3,17.2,1,3.9,198961,60,1,0,Low Risk
+10167,64,Employed,Bachelor,120686,8170,2,15.7,0,3.9,228216,48,1,1,Low Risk
+10168,40,Employed,Bachelor,97666,14303,0,2.5,4,1.6,355259,60,1,1,High Risk
+10169,50,Employed,Master,203728,72743,2,2.6,3,4.9,302338,60,1,0,Low Risk
+10170,31,Employed,Master,150705,78852,2,2.5,3,4.3,438053,12,0,1,Low Risk
+10171,48,Employed,High School,122573,36187,6,0.7,1,1.8,472110,48,1,1,High Risk
+10172,45,Employed,High School,243892,66034,6,11.2,1,1.7,94358,60,0,1,High Risk
+10173,59,Self-Employed,High School,284152,72776,6,19.5,4,1.5,182648,48,1,1,High Risk
+10174,53,Employed,Bachelor,173477,2893,5,9.1,1,1.6,374692,36,1,1,Low Risk
+10175,21,Employed,Bachelor,263141,14753,7,11.0,2,4.0,685087,60,1,1,Low Risk
+10176,47,Employed,High School,105909,39090,2,19.4,2,2.9,568867,60,1,1,Low Risk
+10177,33,Employed,PhD,166899,65922,5,5.5,5,4.1,106554,48,1,0,High Risk
+10178,61,Employed,Bachelor,75354,77768,4,17.2,2,4.0,681915,36,1,1,Low Risk
+10179,23,Employed,High School,33157,60412,6,11.2,2,3.4,849726,60,1,1,High Risk
+10180,59,Self-Employed,Bachelor,50315,57030,4,11.6,4,3.7,584065,12,0,1,High Risk
+10181,26,Employed,Bachelor,160486,18509,6,7.2,3,1.1,409122,48,1,1,High Risk
+10182,28,Self-Employed,High School,273669,69653,1,11.5,2,2.2,50751,48,1,1,Low Risk
+10183,47,Unemployed,Bachelor,147018,37929,5,1.9,5,3.6,210671,60,1,1,High Risk
+10184,29,Self-Employed,Master,291837,49291,5,15.4,1,1.0,118750,36,1,1,Low Risk
+10185,57,Employed,Bachelor,110790,5042,7,6.1,2,1.1,84180,60,1,1,High Risk
+10186,53,Employed,Bachelor,87255,63574,0,17.8,5,4.4,773274,24,0,1,Low Risk
+10187,62,Employed,Bachelor,210829,38201,3,7.7,4,3.7,214750,60,1,1,High Risk
+10188,64,Employed,High School,187275,93282,2,3.3,1,2.1,828076,24,1,1,High Risk
+10189,44,Unemployed,High School,207933,15016,0,14.1,5,3.8,43521,12,1,1,High Risk
+10190,35,Employed,Bachelor,276439,26022,5,3.7,2,4.2,545852,48,1,1,Low Risk
+10191,52,Employed,High School,26350,101962,0,15.2,3,2.2,639443,48,1,1,High Risk
+10192,52,Self-Employed,High School,201584,28938,1,19.4,1,1.1,998144,36,1,1,Low Risk
+10193,44,Self-Employed,Master,116894,44678,3,15.7,1,4.7,430515,60,1,1,Low Risk
+10194,61,Employed,PhD,46728,119171,7,0.9,3,2.4,451174,12,1,0,High Risk
+10195,32,Employed,Master,294720,102248,5,12.2,1,1.4,197150,24,0,1,Low Risk
+10196,59,Employed,Master,98384,62720,5,14.1,2,3.0,416637,36,1,1,Low Risk
+10197,22,Employed,High School,15390,106514,2,16.6,1,4.1,360891,12,0,1,Low Risk
+10198,23,Employed,PhD,26569,57805,7,1.6,2,1.9,807634,12,0,1,High Risk
+10199,57,Employed,High School,37490,75323,7,9.9,3,2.1,381551,24,1,1,High Risk
+10200,37,Employed,PhD,283011,2986,6,10.9,0,2.0,969689,24,0,0,Low Risk
+10201,22,Employed,PhD,95820,77478,3,3.8,3,5.0,669045,48,0,1,Low Risk
+10202,22,Employed,Master,286265,83994,1,6.8,2,1.8,100197,60,1,1,Low Risk
+10203,48,Employed,PhD,16539,13161,4,9.1,4,3.3,52637,36,0,1,Low Risk
+10204,43,Employed,Bachelor,78965,21689,0,16.7,3,4.7,683726,60,1,1,Low Risk
+10205,57,Self-Employed,Bachelor,112799,95699,7,18.6,4,1.6,506464,36,0,1,High Risk
+10206,52,Self-Employed,Bachelor,108948,61924,2,12.8,4,4.9,34276,12,1,1,High Risk
+10207,53,Employed,Bachelor,158314,102311,5,8.2,2,4.8,877378,24,1,1,Low Risk
+10208,21,Employed,High School,263099,100273,4,5.5,2,4.5,975743,24,1,1,Low Risk
+10209,39,Employed,Bachelor,286091,75308,1,19.7,0,1.9,871646,12,1,1,Low Risk
+10210,22,Self-Employed,PhD,258322,102128,3,19.7,5,3.5,165647,12,1,1,Low Risk
+10211,64,Self-Employed,High School,217538,64745,7,18.5,1,4.0,444617,36,0,1,Low Risk
+10212,46,Employed,Master,249778,2211,0,15.8,3,4.9,313374,12,1,1,Low Risk
+10213,52,Unemployed,Master,270821,1229,7,6.9,2,1.7,744784,36,1,1,High Risk
+10214,26,Employed,Master,207888,119972,2,16.4,3,4.1,396230,60,1,1,Low Risk
+10215,52,Employed,PhD,277651,49542,7,8.5,5,2.4,139526,24,1,1,High Risk
+10216,24,Self-Employed,Bachelor,173223,15345,7,6.9,5,1.7,517723,24,0,1,High Risk
+10217,31,Unemployed,PhD,26618,102489,7,15.0,4,2.7,471833,24,1,1,High Risk
+10218,37,Self-Employed,Master,293266,32819,5,2.1,1,4.2,688381,60,0,1,Low Risk
+10219,58,Self-Employed,High School,153426,48779,5,1.4,0,2.9,936953,60,1,1,Low Risk
+10220,44,Employed,Bachelor,101436,83421,4,9.2,3,3.2,418873,48,1,1,High Risk
+10221,25,Self-Employed,Master,225448,93244,4,9.2,1,5.0,307203,36,1,1,Low Risk
+10222,54,Employed,High School,151109,66584,0,18.0,0,2.6,11532,36,1,0,Low Risk
+10223,26,Unemployed,Bachelor,43633,20950,3,3.0,3,3.5,529518,48,1,1,High Risk
+10224,42,Employed,Bachelor,227456,16173,1,2.9,1,2.5,112666,24,1,1,Low Risk
+10225,31,Self-Employed,High School,153442,118743,6,3.4,2,2.6,716165,36,0,1,High Risk
+10226,36,Employed,Bachelor,134873,59032,3,1.1,3,3.8,91551,36,1,1,Low Risk
+10227,53,Self-Employed,Master,86947,116074,3,1.9,1,4.8,178828,24,1,1,Low Risk
+10228,29,Employed,Bachelor,185205,100273,3,13.4,5,3.2,606168,12,1,1,High Risk
+10229,26,Self-Employed,High School,242107,29036,6,8.9,0,4.1,116734,12,1,1,Low Risk
+10230,36,Employed,High School,110761,113857,0,15.4,1,1.4,910429,48,1,1,Low Risk
+10231,49,Employed,Bachelor,43926,72356,6,19.9,2,1.8,740002,60,1,1,High Risk
+10232,23,Employed,Master,119700,15292,0,13.4,3,3.0,961710,36,0,1,Low Risk
+10233,40,Employed,High School,64593,4052,6,1.5,3,1.1,848600,36,1,1,High Risk
+10234,56,Unemployed,Bachelor,20209,45377,1,2.5,3,2.0,123123,48,1,1,High Risk
+10235,39,Employed,High School,141700,90317,7,17.7,2,3.1,740548,48,1,1,High Risk
+10236,46,Unemployed,Bachelor,101597,68838,3,10.8,0,1.1,952054,36,1,1,High Risk
+10237,23,Employed,Master,284355,68819,7,16.6,3,2.1,409605,24,1,1,Low Risk
+10238,39,Employed,Master,24927,114689,0,17.2,0,3.1,97897,24,1,1,Low Risk
+10239,40,Self-Employed,High School,223535,109103,6,18.6,1,3.3,701207,60,1,1,Low Risk
+10240,52,Self-Employed,Bachelor,132333,16620,1,19.0,5,4.7,638887,36,1,1,Low Risk
+10241,27,Employed,High School,170666,31461,6,11.3,5,3.6,875671,36,1,1,High Risk
+10242,61,Employed,Bachelor,220924,21750,7,7.1,0,2.7,290786,36,0,1,Low Risk
+10243,53,Self-Employed,Bachelor,223785,99426,5,19.3,0,4.7,379006,36,1,1,Low Risk
+10244,60,Employed,High School,154005,89719,1,11.2,5,4.1,258751,48,1,0,High Risk
+10245,59,Unemployed,Bachelor,118780,10472,3,1.8,3,1.8,46509,12,0,1,High Risk
+10246,38,Unemployed,Bachelor,55696,70263,2,13.0,4,1.5,875849,36,1,0,High Risk
+10247,60,Self-Employed,Master,211521,113036,3,12.0,4,3.7,845669,12,0,1,Low Risk
+10248,21,Employed,PhD,172195,58602,2,18.0,2,3.2,680774,24,0,1,Low Risk
+10249,31,Self-Employed,High School,65013,26523,1,13.2,5,4.2,859608,60,1,0,High Risk
+10250,48,Employed,Master,231486,31766,5,7.3,5,4.0,138633,24,1,0,High Risk
+10251,45,Employed,Bachelor,254350,104262,7,19.3,2,3.5,876297,36,0,0,Low Risk
+10252,43,Employed,Bachelor,41140,67060,5,16.1,4,4.9,651469,24,0,1,Low Risk
+10253,51,Employed,Master,278328,10079,0,12.8,1,3.1,596347,48,0,1,Low Risk
+10254,50,Unemployed,Master,170918,9399,5,6.2,3,1.5,321294,12,1,1,High Risk
+10255,62,Self-Employed,PhD,126361,61726,4,7.8,3,4.3,884799,36,0,1,Low Risk
+10256,55,Self-Employed,Bachelor,168267,93906,1,13.6,1,2.0,575379,48,1,1,Low Risk
+10257,27,Employed,Bachelor,282750,17532,7,1.9,1,4.1,214196,12,1,1,Low Risk
+10258,36,Employed,Master,31555,83357,7,5.5,4,4.8,10903,48,1,1,High Risk
+10259,46,Employed,Bachelor,105385,44162,0,14.4,2,3.8,251024,24,1,1,Low Risk
+10260,22,Unemployed,Bachelor,270658,4749,7,9.9,1,3.4,850667,36,1,1,Low Risk
+10261,21,Employed,Bachelor,172419,12353,5,8.3,2,2.8,199637,24,1,1,Low Risk
+10262,32,Unemployed,Bachelor,244797,113313,1,3.5,0,2.5,851774,60,1,1,High Risk
+10263,25,Employed,High School,118844,29477,3,9.1,3,2.4,183795,36,1,1,High Risk
+10264,57,Employed,High School,106321,25570,5,15.5,4,3.5,45572,24,1,1,Low Risk
+10265,52,Self-Employed,Master,209923,87373,6,5.6,3,4.0,814042,36,0,1,High Risk
+10266,29,Employed,High School,113234,12437,2,0.6,4,3.7,830484,12,1,1,High Risk
+10267,61,Unemployed,Bachelor,242705,39104,1,13.5,0,1.8,108993,36,1,1,Low Risk
+10268,55,Unemployed,High School,216283,64370,7,19.5,3,3.0,359207,36,1,1,High Risk
+10269,39,Employed,High School,44793,5551,0,12.3,0,4.2,965054,12,1,1,Low Risk
+10270,36,Employed,High School,163929,69359,3,2.8,4,2.9,981537,24,1,1,High Risk
+10271,23,Employed,High School,34627,55880,4,6.8,1,3.1,432227,36,0,1,Low Risk
+10272,40,Unemployed,Master,237633,13916,3,17.4,3,4.1,506027,48,0,1,Low Risk
+10273,44,Employed,Bachelor,239440,81703,5,5.0,0,3.6,962268,36,1,1,Low Risk
+10274,53,Self-Employed,PhD,190188,42445,2,12.4,5,2.6,631828,24,1,1,High Risk
+10275,44,Self-Employed,Bachelor,273191,48636,3,8.4,3,4.6,63533,12,1,1,Low Risk
+10276,31,Self-Employed,Bachelor,138099,74927,4,4.6,3,1.7,689424,24,1,1,High Risk
+10277,28,Employed,Bachelor,224074,79194,6,16.4,3,5.0,920421,60,1,1,Low Risk
+10278,56,Self-Employed,Bachelor,188686,30685,0,15.0,2,1.5,793185,36,0,1,Low Risk
+10279,58,Unemployed,Master,289864,52134,1,13.4,0,1.1,190653,36,1,1,Low Risk
+10280,60,Employed,Bachelor,122449,89916,2,5.1,0,4.6,130388,12,0,1,Low Risk
+10281,40,Employed,Bachelor,117828,108967,4,2.4,3,2.0,825134,36,1,1,High Risk
+10282,55,Unemployed,Master,141613,95455,7,11.7,1,3.9,133482,48,1,1,Low Risk
+10283,45,Employed,Master,87095,68847,5,11.3,3,4.2,805063,48,1,1,Low Risk
+10284,55,Unemployed,Master,120924,40993,5,4.2,2,4.4,264936,24,1,1,High Risk
+10285,45,Employed,Bachelor,111452,45333,5,1.6,4,5.0,97388,12,1,1,Low Risk
+10286,49,Employed,Master,102593,109574,7,2.1,2,2.2,659086,60,0,1,High Risk
+10287,38,Unemployed,Bachelor,181964,59865,7,19.9,1,3.8,604331,24,1,1,Low Risk
+10288,38,Employed,Bachelor,141202,80096,2,15.8,3,1.5,993567,12,1,0,High Risk
+10289,22,Employed,High School,92606,50756,3,18.5,0,2.6,694341,12,1,1,Low Risk
+10290,55,Employed,Bachelor,138769,62192,2,4.3,5,4.4,832196,24,1,1,High Risk
+10291,36,Employed,High School,133542,61686,5,19.2,3,2.5,767131,24,1,1,Low Risk
+10292,61,Employed,Bachelor,278068,49733,6,3.3,1,3.4,794147,36,0,1,Low Risk
+10293,56,Employed,Master,66322,105089,4,10.4,0,3.0,453729,60,0,1,Low Risk
+10294,53,Unemployed,High School,172550,26993,1,16.7,2,3.6,663302,48,1,1,Low Risk
+10295,24,Employed,High School,86042,31492,1,7.3,4,4.9,123076,36,0,1,High Risk
+10296,53,Self-Employed,High School,61418,21981,2,8.8,4,1.2,633295,12,1,1,High Risk
+10297,34,Employed,Master,115699,25143,5,3.0,3,3.3,731558,60,1,1,High Risk
+10298,41,Self-Employed,Bachelor,105140,78603,7,2.9,2,4.5,821372,60,0,1,High Risk
+10299,40,Employed,Bachelor,26781,90452,0,12.6,5,2.9,903850,24,1,1,High Risk
+10300,28,Unemployed,Master,112628,61277,6,13.7,5,1.3,81792,60,1,1,High Risk
+10301,27,Employed,Master,91946,108044,2,15.7,1,3.2,431648,60,1,1,Low Risk
+10302,23,Employed,Bachelor,100058,112957,5,11.4,4,2.3,18367,12,0,1,High Risk
+10303,37,Employed,Bachelor,166542,50990,3,13.1,2,1.6,908196,36,1,1,Low Risk
+10304,53,Employed,Master,285675,63888,1,0.8,3,4.4,768961,60,1,1,Low Risk
+10305,32,Employed,Bachelor,57674,70351,1,3.7,0,3.1,953015,24,1,1,Low Risk
+10306,42,Employed,High School,142572,98372,6,19.7,3,4.7,805005,36,0,1,High Risk
+10307,42,Self-Employed,Master,240730,50999,1,2.0,3,4.2,549870,24,1,1,Low Risk
+10308,50,Employed,Bachelor,72174,104013,0,13.7,2,3.8,146450,60,1,0,Low Risk
+10309,58,Employed,Bachelor,288423,103811,5,3.9,4,1.0,861728,36,1,1,High Risk
+10310,58,Self-Employed,Bachelor,271008,105879,5,14.5,2,2.7,678860,60,1,1,Low Risk
+10311,65,Self-Employed,High School,68051,71309,6,14.3,0,1.8,337985,12,1,0,High Risk
+10312,28,Employed,High School,218085,13446,5,5.1,2,4.6,556169,36,1,1,Low Risk
+10313,47,Employed,Master,80524,31733,7,5.8,1,1.7,866665,24,0,1,High Risk
+10314,47,Employed,High School,283614,77000,6,13.3,3,2.1,716902,12,1,1,High Risk
+10315,54,Self-Employed,Bachelor,246189,49632,5,8.1,4,3.1,599573,48,0,1,High Risk
+10316,41,Self-Employed,Bachelor,59439,22576,0,4.3,5,2.1,69547,24,1,0,High Risk
+10317,50,Employed,High School,291452,4320,4,14.8,0,1.8,727511,60,1,1,Low Risk
+10318,53,Self-Employed,PhD,106563,11750,2,3.5,5,3.4,672582,24,1,1,High Risk
+10319,48,Self-Employed,High School,242328,104002,2,17.2,3,1.4,17933,48,1,1,High Risk
+10320,53,Employed,Bachelor,221314,54463,5,10.5,2,1.2,355529,24,1,1,High Risk
+10321,25,Unemployed,Bachelor,24837,27572,3,2.6,5,2.5,775127,12,0,0,High Risk
+10322,39,Employed,High School,250207,119361,1,14.0,1,3.9,632994,24,1,1,Low Risk
+10323,24,Employed,High School,133128,18948,0,10.6,2,3.2,481653,36,1,1,Low Risk
+10324,55,Employed,Master,182896,117528,3,6.3,3,2.7,934444,48,1,0,High Risk
+10325,37,Employed,PhD,179145,39826,7,8.7,5,3.3,881022,24,1,1,High Risk
+10326,64,Employed,High School,112624,90051,3,6.3,0,2.5,378543,48,1,1,Low Risk
+10327,48,Unemployed,Bachelor,204933,28867,5,5.6,5,4.7,331289,12,1,1,High Risk
+10328,50,Employed,Master,45063,61231,0,3.7,5,1.2,184682,36,1,1,High Risk
+10329,49,Employed,Master,84453,67262,2,7.6,4,3.7,329664,60,1,1,Low Risk
+10330,26,Employed,Bachelor,269371,92356,1,5.4,5,4.6,538832,24,1,0,High Risk
+10331,55,Unemployed,Bachelor,117166,73233,2,13.8,3,4.2,851244,12,1,1,High Risk
+10332,61,Employed,Bachelor,29506,45678,3,13.8,0,1.7,212682,48,1,1,Low Risk
+10333,57,Employed,Master,240413,108561,7,10.3,3,2.2,192572,48,1,1,High Risk
+10334,44,Employed,Master,128604,13963,1,15.7,1,3.9,967122,12,1,1,Low Risk
+10335,49,Employed,High School,41026,65360,4,16.9,2,1.3,391234,24,1,1,High Risk
+10336,51,Unemployed,Bachelor,270116,50434,3,11.8,5,4.2,895486,60,1,1,High Risk
+10337,55,Unemployed,Master,205285,67617,2,12.6,4,3.9,952948,24,1,1,High Risk
+10338,53,Employed,Master,65971,21269,2,6.0,0,3.9,227054,36,1,1,Low Risk
+10339,41,Unemployed,PhD,128978,118569,5,17.9,4,1.4,497295,24,1,0,High Risk
+10340,52,Self-Employed,Master,174163,77312,2,1.0,4,3.9,984090,36,1,1,High Risk
+10341,43,Unemployed,Bachelor,118864,98352,0,7.3,4,3.7,428005,48,1,1,High Risk
+10342,53,Employed,Bachelor,110386,80732,3,14.6,5,4.3,404833,36,1,1,High Risk
+10343,23,Employed,Bachelor,101126,118658,6,2.1,0,1.2,269711,60,1,0,High Risk
+10344,38,Employed,High School,177023,108648,6,4.1,0,1.1,635122,12,1,1,High Risk
+10345,45,Self-Employed,Bachelor,95863,82494,7,12.0,4,2.5,144405,36,1,1,High Risk
+10346,62,Employed,Master,140659,89905,1,11.4,2,1.6,50002,24,1,1,Low Risk
+10347,51,Employed,High School,205944,78225,2,14.9,5,3.2,265549,36,1,1,High Risk
+10348,23,Employed,Master,22235,83867,5,16.3,5,4.7,991124,48,1,0,High Risk
+10349,60,Self-Employed,Bachelor,77712,38528,5,3.0,3,2.6,753048,36,1,1,High Risk
+10350,44,Employed,PhD,167545,79972,2,0.9,5,4.4,492843,60,1,1,High Risk
+10351,52,Self-Employed,High School,213639,66602,0,13.9,4,1.0,403727,36,1,1,High Risk
+10352,42,Unemployed,Bachelor,252890,97261,5,6.4,1,1.7,384994,60,0,1,High Risk
+10353,43,Employed,Bachelor,140849,91748,6,12.7,4,1.1,664299,24,0,1,High Risk
+10354,22,Self-Employed,Bachelor,270493,34332,1,3.4,0,2.3,703210,48,1,1,Low Risk
+10355,47,Employed,Master,94823,91937,3,9.6,5,4.6,655836,12,1,1,High Risk
+10356,62,Unemployed,Master,119215,79929,4,10.3,5,1.4,485388,24,1,1,High Risk
+10357,22,Employed,High School,256071,70206,0,11.9,3,3.4,41786,24,1,1,Low Risk
+10358,46,Self-Employed,Bachelor,47230,92137,7,10.5,1,2.8,477572,12,1,1,High Risk
+10359,37,Self-Employed,Bachelor,238660,3251,7,10.2,5,4.8,308388,36,1,1,High Risk
+10360,60,Unemployed,Bachelor,194736,46717,5,7.0,3,1.5,740074,36,1,1,High Risk
+10361,53,Self-Employed,Master,138246,100108,3,1.9,3,1.8,77261,36,1,0,High Risk
+10362,29,Employed,Master,99817,28027,4,2.2,1,1.1,290621,48,1,1,Low Risk
+10363,63,Self-Employed,Bachelor,253657,98382,7,9.0,4,2.7,711893,24,1,1,High Risk
+10364,59,Unemployed,Master,232033,87551,2,7.4,4,2.1,961973,60,1,0,High Risk
+10365,49,Employed,Bachelor,246414,10583,2,10.6,4,4.5,280640,12,0,1,Low Risk
+10366,62,Employed,Master,271812,51387,1,6.4,2,3.4,130522,24,0,1,Low Risk
+10367,46,Unemployed,Bachelor,85219,24104,4,13.9,4,3.5,415486,36,1,1,High Risk
+10368,55,Self-Employed,Master,185956,13224,2,17.3,1,3.1,741368,12,1,1,Low Risk
+10369,45,Self-Employed,Master,272134,61624,7,6.3,2,1.4,292868,60,0,1,High Risk
+10370,44,Employed,Bachelor,36650,57058,2,4.3,4,2.8,302560,24,1,1,High Risk
+10371,33,Self-Employed,Master,185521,105320,6,2.8,2,5.0,569863,24,1,1,Low Risk
+10372,27,Employed,High School,185733,97372,5,12.5,1,4.3,484406,48,1,1,Low Risk
+10373,56,Self-Employed,Bachelor,257037,30299,7,9.2,4,4.6,610902,24,0,1,Low Risk
+10374,65,Employed,Bachelor,95428,79572,7,4.2,0,4.3,103566,24,1,1,Low Risk
+10375,40,Self-Employed,PhD,221251,86469,7,13.2,5,1.4,262061,60,1,1,High Risk
+10376,21,Unemployed,Master,24943,78928,1,3.4,1,1.9,738468,60,1,1,High Risk
+10377,28,Employed,Master,189312,74474,3,11.3,3,1.0,944912,12,1,1,High Risk
+10378,36,Unemployed,Master,36042,5141,7,10.8,3,2.2,137192,36,1,1,High Risk
+10379,34,Employed,Bachelor,267842,24350,2,14.8,1,1.4,553647,60,1,1,Low Risk
+10380,32,Unemployed,Master,201443,76082,6,1.6,3,2.9,411914,12,0,1,High Risk
+10381,43,Self-Employed,Bachelor,166990,71871,7,17.8,1,3.7,211464,24,1,1,Low Risk
+10382,35,Employed,Bachelor,229304,6077,0,14.2,0,4.5,758423,12,0,1,Low Risk
+10383,48,Self-Employed,High School,159923,47015,0,4.7,1,4.0,966996,12,1,1,Low Risk
+10384,54,Unemployed,Master,216904,72147,3,4.1,4,4.8,477997,12,1,1,High Risk
+10385,22,Employed,Master,202428,60180,4,8.9,4,1.2,577922,12,1,1,High Risk
+10386,52,Employed,Bachelor,160817,41857,1,16.4,2,1.0,127255,60,1,1,Low Risk
+10387,43,Self-Employed,High School,20730,102196,6,16.9,3,3.6,577152,36,1,1,High Risk
+10388,42,Self-Employed,Master,244502,60840,5,10.6,5,2.2,890914,12,1,1,High Risk
+10389,45,Self-Employed,High School,217210,60902,6,17.3,3,2.0,47355,48,0,0,High Risk
+10390,42,Self-Employed,Master,229183,6577,0,0.6,1,2.3,47690,24,1,1,Low Risk
+10391,42,Employed,PhD,34023,21002,0,1.2,5,2.1,441030,24,1,1,High Risk
+10392,62,Self-Employed,Bachelor,141796,51711,3,18.3,5,3.0,697005,24,1,1,High Risk
+10393,26,Employed,High School,299981,40451,4,15.6,3,2.8,750174,24,0,1,Low Risk
+10394,35,Employed,Master,191111,100811,4,9.3,5,3.0,213811,24,1,1,High Risk
+10395,63,Employed,Master,35923,50103,3,15.2,5,3.7,590918,12,1,0,High Risk
+10396,57,Employed,Bachelor,286020,29647,7,19.1,4,2.5,189243,36,1,1,Low Risk
+10397,53,Employed,PhD,209795,35831,6,15.6,0,2.0,555946,48,1,1,Low Risk
+10398,28,Employed,High School,248462,119330,0,16.9,1,1.7,527196,60,1,1,Low Risk
+10399,64,Self-Employed,Bachelor,66413,101304,6,15.3,3,2.4,529757,48,0,1,High Risk
+10400,64,Employed,Master,270719,97498,6,3.8,4,4.0,249204,60,0,1,Low Risk
+10401,25,Employed,Master,43756,114870,1,16.8,2,4.0,287941,60,1,1,Low Risk
+10402,59,Employed,High School,133248,96119,0,4.3,5,3.7,855231,48,1,1,High Risk
+10403,24,Employed,Master,287448,67830,4,17.9,5,1.9,390445,12,1,1,High Risk
+10404,26,Employed,Bachelor,45341,81632,5,9.4,3,3.4,763702,24,0,1,Low Risk
+10405,65,Employed,Bachelor,142039,37833,6,13.7,0,3.3,324380,12,1,1,Low Risk
+10406,52,Self-Employed,High School,206830,113394,0,10.2,0,2.9,540553,24,0,1,Low Risk
+10407,50,Self-Employed,Master,177730,93864,6,2.3,3,3.2,530335,36,1,1,High Risk
+10408,55,Self-Employed,High School,195074,25398,1,6.2,3,3.0,659899,60,1,1,Low Risk
+10409,60,Employed,Bachelor,249390,62554,7,19.7,4,3.3,213206,48,1,1,High Risk
+10410,36,Employed,Bachelor,147447,51755,2,19.2,3,3.9,456710,36,1,1,Low Risk
+10411,33,Unemployed,Master,114485,18706,0,6.7,2,1.4,393898,24,1,1,High Risk
+10412,62,Employed,Bachelor,299236,23340,3,19.9,4,4.0,979772,12,1,1,Low Risk
+10413,50,Employed,Master,146562,65994,2,17.0,5,1.5,692358,48,1,1,High Risk
+10414,39,Employed,Bachelor,18729,64884,6,12.4,5,1.3,101426,60,0,1,High Risk
+10415,37,Employed,Bachelor,152046,85361,3,1.3,5,4.9,988843,36,1,1,High Risk
+10416,39,Employed,Bachelor,133222,18482,3,18.1,5,4.8,417522,60,1,1,Low Risk
+10417,48,Employed,Master,98860,55225,3,11.4,1,1.2,729366,24,0,0,Low Risk
+10418,46,Employed,Master,273360,59849,0,17.4,2,2.8,521933,60,1,1,Low Risk
+10419,57,Employed,High School,36398,75854,4,16.8,4,1.7,188417,12,0,1,High Risk
+10420,46,Self-Employed,Bachelor,118889,42256,6,16.7,4,2.9,152957,36,1,1,High Risk
+10421,43,Self-Employed,High School,280303,110545,2,14.1,5,4.3,643969,36,1,1,High Risk
+10422,29,Self-Employed,Bachelor,240959,109721,1,6.2,0,4.8,840258,12,1,1,Low Risk
+10423,32,Self-Employed,Bachelor,117834,82110,4,7.1,4,3.5,589885,60,0,1,High Risk
+10424,21,Unemployed,Bachelor,36638,114606,6,6.5,2,2.4,934947,12,0,1,High Risk
+10425,21,Employed,Bachelor,278217,15650,7,0.9,3,3.4,107375,48,1,1,High Risk
+10426,54,Employed,Bachelor,230379,47118,7,11.9,2,2.2,781365,12,0,1,Low Risk
+10427,52,Employed,Bachelor,247069,29930,0,14.1,5,4.6,813516,60,1,1,Low Risk
+10428,45,Self-Employed,Master,44320,86707,3,17.2,5,4.5,361591,12,1,1,High Risk
+10429,60,Unemployed,Bachelor,49924,101400,1,3.2,1,3.2,538671,24,1,1,High Risk
+10430,65,Employed,High School,227792,12801,6,11.1,4,2.3,102313,12,1,1,High Risk
+10431,21,Unemployed,Master,186097,52360,2,0.7,4,2.2,830793,12,1,1,High Risk
+10432,36,Employed,Bachelor,17159,88908,6,2.4,4,1.1,90294,60,1,1,High Risk
+10433,59,Unemployed,Bachelor,63940,17559,4,1.6,5,4.3,595619,48,0,1,High Risk
+10434,25,Employed,Bachelor,94436,33334,7,14.6,4,2.8,105057,48,1,1,High Risk
+10435,42,Employed,Bachelor,29678,106473,5,2.1,0,2.3,161601,60,1,0,Low Risk
+10436,49,Employed,High School,207147,14288,4,14.5,0,2.9,723934,60,1,1,Low Risk
+10437,23,Employed,Bachelor,152844,23398,6,5.4,3,4.3,753987,60,1,1,Low Risk
+10438,32,Employed,Master,82163,77230,1,17.6,4,1.5,393829,24,1,1,High Risk
+10439,46,Employed,Bachelor,256040,13191,6,16.4,1,4.4,106917,36,0,1,Low Risk
+10440,36,Self-Employed,Bachelor,219827,19051,6,19.2,3,4.6,504132,12,1,1,Low Risk
+10441,57,Employed,Bachelor,169536,62715,0,17.7,5,4.8,303076,60,0,1,Low Risk
+10442,42,Employed,High School,66137,11737,2,18.7,4,2.6,525303,60,1,1,Low Risk
+10443,49,Self-Employed,Bachelor,115485,66140,1,17.2,0,1.9,274052,60,1,1,Low Risk
+10444,34,Self-Employed,Master,255970,26251,6,14.0,1,2.5,516705,48,1,1,Low Risk
+10445,48,Employed,High School,120468,51975,3,3.8,3,2.3,433574,60,1,1,High Risk
+10446,25,Employed,Bachelor,15901,6147,2,5.8,1,1.7,564700,12,1,1,Low Risk
+10447,50,Employed,Bachelor,102980,51508,4,4.6,4,3.4,924751,60,1,1,High Risk
+10448,25,Employed,Bachelor,280025,53224,1,12.3,2,2.9,880142,12,0,1,Low Risk
+10449,32,Self-Employed,PhD,257434,20643,4,10.3,1,4.5,263928,24,1,1,Low Risk
+10450,36,Employed,High School,217258,39967,7,17.4,1,1.1,222104,36,0,1,Low Risk
+10451,46,Employed,Bachelor,266839,99850,6,19.1,5,3.6,12928,48,0,1,High Risk
+10452,46,Self-Employed,High School,87572,104535,4,8.4,0,4.1,861590,12,0,0,Low Risk
+10453,41,Employed,PhD,54255,41733,4,10.4,4,4.0,171704,24,1,0,High Risk
+10454,59,Employed,High School,78212,85003,0,19.4,1,4.5,42309,36,0,1,Low Risk
+10455,56,Employed,Bachelor,37499,35808,4,5.9,4,3.9,805712,36,1,1,High Risk
+10456,53,Unemployed,Master,117552,68288,3,16.0,0,4.7,50449,36,1,1,Low Risk
+10457,50,Employed,Master,76360,59959,3,4.9,5,2.3,823389,12,1,1,High Risk
+10458,57,Self-Employed,Bachelor,158704,2849,2,13.8,4,3.0,702255,24,0,1,High Risk
+10459,43,Employed,Bachelor,176679,69178,6,5.4,0,1.1,342643,60,1,1,Low Risk
+10460,30,Employed,Bachelor,106873,68136,5,17.7,0,1.0,627345,24,1,1,Low Risk
+10461,25,Self-Employed,Bachelor,80756,61740,7,11.4,3,2.0,763511,24,1,1,High Risk
+10462,56,Unemployed,High School,209454,113255,4,4.1,5,1.4,382209,24,1,0,High Risk
+10463,54,Self-Employed,Bachelor,42464,87322,4,4.9,5,2.0,515074,12,1,1,High Risk
+10464,51,Self-Employed,Bachelor,136897,45565,1,10.1,4,1.7,687055,12,0,1,High Risk
+10465,30,Unemployed,Bachelor,98791,21183,0,19.3,2,1.1,609181,12,1,1,High Risk
+10466,39,Employed,Bachelor,170371,116306,5,15.5,3,4.6,466339,24,0,1,Low Risk
+10467,52,Employed,PhD,194047,2132,2,10.0,5,1.0,821608,12,1,1,High Risk
+10468,21,Self-Employed,Bachelor,147534,39259,7,7.1,0,3.9,683769,36,1,1,Low Risk
+10469,25,Employed,High School,96441,97612,5,11.2,5,1.6,789824,12,1,1,High Risk
+10470,65,Self-Employed,High School,252612,64668,4,15.1,2,4.6,853399,48,0,1,Low Risk
+10471,24,Unemployed,PhD,246444,39563,1,15.8,1,4.6,535275,12,1,1,Low Risk
+10472,36,Employed,Bachelor,291319,93227,6,6.8,1,3.6,981966,12,1,1,Low Risk
+10473,44,Employed,High School,152263,109835,0,14.6,5,3.7,208573,12,0,1,High Risk
+10474,36,Self-Employed,Bachelor,99518,11931,6,13.3,5,1.0,246692,12,1,1,High Risk
+10475,22,Employed,Bachelor,226230,74169,2,19.2,3,4.9,893286,48,1,0,Low Risk
+10476,48,Self-Employed,Bachelor,62645,51639,5,18.7,5,4.5,36015,60,1,0,High Risk
+10477,52,Employed,Bachelor,254608,104313,2,15.9,2,4.6,497943,12,1,1,Low Risk
+10478,47,Self-Employed,High School,38283,59901,4,14.6,5,3.6,384494,36,0,1,High Risk
+10479,40,Employed,PhD,205195,101417,2,5.8,4,2.4,862836,48,1,1,High Risk
+10480,44,Self-Employed,Bachelor,117780,2044,6,17.0,2,4.6,126751,60,0,1,Low Risk
+10481,32,Employed,Bachelor,15515,47691,1,8.8,3,2.2,925239,12,1,0,High Risk
+10482,55,Employed,Master,243872,101735,2,5.8,4,3.3,715641,60,1,1,High Risk
+10483,53,Employed,Bachelor,73755,25363,3,8.0,4,1.4,964650,36,1,1,High Risk
+10484,53,Self-Employed,Bachelor,42856,47694,1,16.8,1,4.7,58231,48,1,0,Low Risk
+10485,63,Unemployed,Bachelor,88870,2582,5,3.4,2,1.6,694392,48,0,1,High Risk
+10486,57,Employed,Bachelor,152080,80910,0,9.4,4,1.9,300449,60,1,1,High Risk
+10487,32,Employed,Master,285131,67844,0,10.1,3,3.2,64306,12,1,1,Low Risk
+10488,23,Employed,Master,111502,22301,4,1.2,1,4.1,229248,24,1,1,Low Risk
+10489,21,Self-Employed,High School,81323,75329,4,4.3,4,3.5,131139,48,0,1,High Risk
+10490,53,Self-Employed,High School,287017,2620,3,16.6,2,1.9,552606,24,1,1,Low Risk
+10491,60,Employed,Master,228614,63224,5,16.7,1,1.0,154318,48,1,0,Low Risk
+10492,30,Employed,Master,182516,57655,6,6.2,2,4.0,961348,12,1,1,Low Risk
+10493,63,Employed,Master,120219,96419,0,17.6,2,4.9,173674,12,0,1,Low Risk
+10494,64,Employed,High School,20033,38534,0,15.5,2,4.2,293728,48,0,0,Low Risk
+10495,49,Employed,Bachelor,292833,104496,0,8.6,1,2.8,781687,60,1,1,Low Risk
+10496,33,Unemployed,Master,124756,40390,6,15.1,4,4.6,549457,12,1,1,High Risk
+10497,32,Employed,Bachelor,277210,72629,0,19.2,5,2.6,35968,12,0,1,High Risk
+10498,51,Self-Employed,Bachelor,129159,56856,2,9.4,0,3.1,933889,36,1,0,Low Risk
+10499,22,Employed,High School,191318,50252,5,5.1,4,2.9,214830,12,1,0,High Risk
+10500,55,Employed,Bachelor,22533,56809,1,18.9,1,2.8,919116,36,1,1,Low Risk
+10501,43,Self-Employed,Bachelor,216224,23259,1,12.3,0,4.1,649679,12,1,1,Low Risk
+10502,37,Self-Employed,Bachelor,257653,21655,3,2.6,0,3.1,297588,12,1,1,Low Risk
+10503,46,Unemployed,PhD,124028,34005,2,11.7,0,2.3,244856,60,1,1,Low Risk
+10504,28,Employed,Bachelor,288916,32629,0,10.3,5,2.0,526328,60,1,1,High Risk
+10505,49,Employed,Master,265231,24610,0,17.2,3,1.2,378225,12,0,1,Low Risk
+10506,46,Self-Employed,High School,27940,58184,4,10.8,1,3.3,72497,48,1,1,High Risk
+10507,30,Employed,Bachelor,31932,22602,4,5.5,5,1.9,539650,48,1,1,High Risk
+10508,46,Employed,PhD,241377,86945,3,13.7,5,1.6,895686,12,1,1,High Risk
+10509,54,Employed,High School,39648,12110,0,11.1,3,3.6,673610,48,1,1,Low Risk
+10510,61,Employed,High School,47966,7073,3,5.0,0,3.7,602642,12,1,0,Low Risk
+10511,27,Unemployed,Bachelor,270733,101846,2,11.7,3,4.0,46368,60,1,1,High Risk
+10512,24,Employed,High School,178639,81818,1,16.5,3,3.0,54109,24,1,1,Low Risk
+10513,65,Employed,Master,261331,11195,0,1.1,5,4.6,198717,36,1,1,Low Risk
+10514,31,Employed,Master,57598,2537,5,12.8,1,4.7,984501,48,1,1,Low Risk
+10515,49,Employed,Bachelor,205271,18138,6,7.3,2,4.2,37426,48,0,1,Low Risk
+10516,56,Employed,Bachelor,190309,45328,2,6.2,3,3.5,914064,60,1,1,Low Risk
+10517,45,Employed,Bachelor,211569,47202,0,8.2,3,2.2,646925,48,1,1,Low Risk
+10518,41,Employed,Master,146250,41164,6,7.2,0,4.9,573311,12,1,1,Low Risk
+10519,56,Self-Employed,High School,263004,90743,5,16.7,0,2.1,394412,12,1,1,Low Risk
+10520,30,Employed,Bachelor,32118,55659,4,5.9,5,1.8,462483,24,1,1,High Risk
+10521,57,Employed,Bachelor,37616,87155,3,14.8,0,2.8,165964,24,1,1,Low Risk
+10522,29,Unemployed,Bachelor,146870,50692,4,2.3,4,1.2,986736,24,1,1,High Risk
+10523,44,Self-Employed,High School,284745,25845,1,19.1,3,4.9,523168,12,1,1,Low Risk
+10524,55,Employed,Master,17795,90846,4,12.6,0,3.4,905643,24,1,1,Low Risk
+10525,55,Employed,High School,112462,104435,0,14.3,1,3.2,629185,24,1,0,Low Risk
+10526,56,Employed,High School,280228,31562,5,6.3,4,3.6,986729,12,0,1,High Risk
+10527,38,Self-Employed,Master,277875,29036,4,8.5,5,3.0,681367,60,0,1,High Risk
+10528,59,Unemployed,Master,147201,61752,0,4.9,2,1.1,614065,48,1,1,High Risk
+10529,52,Self-Employed,High School,174094,75233,1,18.7,3,3.4,54858,36,1,1,Low Risk
+10530,44,Employed,High School,278749,84049,6,10.0,3,3.9,972577,12,1,0,Low Risk
+10531,43,Self-Employed,High School,92506,109575,5,12.8,1,2.7,230510,12,0,1,Low Risk
+10532,52,Employed,Bachelor,255313,69681,4,14.8,2,4.0,362186,36,0,1,Low Risk
+10533,57,Employed,High School,59130,28818,3,7.7,2,1.9,879530,36,0,0,High Risk
+10534,32,Employed,High School,178402,31544,3,14.5,5,1.9,554527,24,1,1,High Risk
+10535,33,Unemployed,Bachelor,161259,63532,5,13.7,5,1.6,466185,36,1,1,High Risk
+10536,43,Employed,Master,216682,79636,3,14.3,4,2.5,940569,48,1,1,Low Risk
+10537,45,Self-Employed,Bachelor,238034,58705,4,10.0,3,4.4,907383,48,0,1,Low Risk
+10538,55,Employed,Bachelor,114694,21104,4,8.0,0,4.3,51291,48,1,0,Low Risk
+10539,61,Employed,High School,34773,70603,5,4.8,5,2.5,48805,48,1,1,High Risk
+10540,50,Employed,PhD,281383,103499,4,16.6,1,3.4,108831,48,0,1,Low Risk
+10541,37,Employed,Master,298007,60025,6,12.4,1,3.9,159515,24,1,1,Low Risk
+10542,40,Self-Employed,Master,83968,97264,0,9.2,1,2.0,19290,12,0,1,Low Risk
+10543,45,Employed,Master,75430,33317,1,18.9,5,1.7,403427,36,1,1,High Risk
+10544,42,Self-Employed,Master,265072,32416,6,1.4,5,4.9,355778,12,1,1,High Risk
+10545,33,Self-Employed,Bachelor,16515,43012,6,17.1,1,3.5,815504,36,1,0,Low Risk
+10546,39,Unemployed,High School,112206,106585,3,20.0,5,4.9,839722,24,0,1,High Risk
+10547,56,Employed,Bachelor,260282,69045,0,17.8,0,2.4,95186,24,1,1,Low Risk
+10548,32,Employed,Master,250702,22400,5,16.3,0,3.8,811547,60,1,1,Low Risk
+10549,61,Employed,Master,20586,49270,7,7.8,4,1.9,539437,60,1,0,High Risk
+10550,39,Unemployed,Bachelor,260277,73069,3,5.0,3,2.0,838424,24,1,1,High Risk
+10551,32,Unemployed,High School,46186,50833,0,14.8,0,3.0,289860,24,1,1,Low Risk
+10552,29,Employed,Bachelor,41928,64644,4,6.4,4,2.3,894156,36,1,1,High Risk
+10553,27,Self-Employed,Master,244336,81206,5,3.9,2,1.7,547909,24,1,1,High Risk
+10554,48,Employed,Bachelor,229159,70468,7,15.8,3,2.1,410036,12,1,1,High Risk
+10555,34,Self-Employed,Bachelor,35711,113899,5,6.6,0,1.1,795088,36,1,1,High Risk
+10556,51,Employed,Bachelor,69962,60473,7,18.3,2,3.8,909497,24,1,0,Low Risk
+10557,39,Self-Employed,Bachelor,35039,46809,7,16.9,4,3.0,970304,36,1,1,High Risk
+10558,36,Employed,Master,51561,39328,3,17.0,0,1.4,982547,36,0,1,Low Risk
+10559,25,Self-Employed,Bachelor,221555,37784,4,15.5,0,1.7,826831,48,0,1,Low Risk
+10560,55,Self-Employed,Master,234730,24723,3,17.7,5,1.4,129374,60,1,0,High Risk
+10561,32,Self-Employed,Bachelor,16577,61646,7,16.2,2,3.5,941506,36,1,1,High Risk
+10562,45,Employed,Bachelor,122792,67255,7,12.2,0,1.4,315242,36,1,1,Low Risk
+10563,41,Employed,High School,262980,1074,2,6.3,1,4.0,841943,48,1,1,Low Risk
+10564,56,Employed,Master,253540,27498,0,17.8,5,1.1,325387,24,1,1,Low Risk
+10565,43,Employed,Bachelor,243506,66522,2,16.9,5,2.0,387275,36,1,1,High Risk
+10566,36,Employed,Bachelor,227489,97881,0,9.7,0,4.6,533990,48,0,1,Low Risk
+10567,59,Unemployed,Bachelor,25785,21541,1,1.3,5,3.9,825182,12,1,1,High Risk
+10568,65,Employed,Master,87227,46929,6,13.0,3,1.3,232682,48,1,1,High Risk
+10569,62,Employed,High School,80431,101453,5,1.5,2,4.3,944814,60,1,1,High Risk
+10570,59,Employed,Master,262941,27028,3,18.6,3,3.0,851830,60,0,1,Low Risk
+10571,34,Employed,Bachelor,209844,30545,1,19.3,4,4.4,747902,24,1,1,Low Risk
+10572,51,Self-Employed,Bachelor,165653,80569,1,4.2,3,3.4,783085,24,1,1,High Risk
+10573,25,Employed,High School,278606,32673,5,13.7,1,3.7,316489,60,1,1,Low Risk
+10574,55,Unemployed,Bachelor,210245,31974,5,2.3,5,5.0,627718,60,1,1,High Risk
+10575,43,Employed,Bachelor,190486,59899,0,14.7,5,1.9,124921,36,1,1,High Risk
+10576,49,Unemployed,High School,87573,24097,2,7.3,1,3.5,626017,60,1,1,High Risk
+10577,63,Unemployed,Bachelor,239737,103511,4,13.8,5,2.8,586131,24,0,1,High Risk
+10578,31,Employed,Master,134682,94144,0,7.8,3,1.2,675582,60,1,1,High Risk
+10579,38,Unemployed,High School,28386,65824,4,3.3,4,1.1,959013,24,0,0,High Risk
+10580,32,Employed,Master,69460,24525,1,8.4,0,1.5,141458,12,1,0,Low Risk
+10581,29,Self-Employed,Bachelor,130375,58804,4,2.7,1,3.6,860766,60,1,1,High Risk
+10582,30,Employed,Bachelor,167117,16043,2,11.7,3,3.3,339314,24,1,0,Low Risk
+10583,64,Unemployed,Bachelor,131582,42846,0,1.3,3,3.2,50878,48,0,1,High Risk
+10584,37,Unemployed,High School,258015,78261,7,10.8,3,1.1,210741,36,1,1,High Risk
+10585,58,Self-Employed,High School,168778,103240,5,17.8,0,2.9,179421,24,1,0,Low Risk
+10586,27,Self-Employed,High School,67335,108611,7,16.8,2,4.7,765631,60,1,0,High Risk
+10587,33,Employed,High School,244087,51227,2,17.7,5,2.6,949456,60,1,1,High Risk
+10588,60,Employed,Bachelor,67949,54028,6,18.5,5,3.5,525188,12,1,0,High Risk
+10589,62,Employed,Master,110558,38383,2,2.5,4,4.1,624640,48,0,1,Low Risk
+10590,29,Employed,Master,279860,30483,6,3.0,2,4.1,424745,24,1,1,Low Risk
+10591,47,Self-Employed,Bachelor,162646,8265,0,11.4,5,3.1,998807,48,1,1,High Risk
+10592,22,Employed,High School,257887,23763,5,17.9,4,4.4,444737,12,1,1,Low Risk
+10593,25,Unemployed,Bachelor,207898,76652,2,19.5,4,2.6,552671,36,1,1,High Risk
+10594,49,Self-Employed,Bachelor,166285,16733,7,1.4,3,4.6,670261,48,1,1,High Risk
+10595,57,Self-Employed,High School,86916,113196,6,7.4,1,2.0,839321,12,1,1,High Risk
+10596,58,Employed,Bachelor,212223,92038,5,4.7,3,2.1,548921,24,1,1,High Risk
+10597,39,Unemployed,Bachelor,274590,38420,3,15.2,0,1.2,596532,36,1,1,High Risk
+10598,28,Unemployed,Bachelor,263090,109777,3,13.0,5,4.2,925609,60,1,1,High Risk
+10599,65,Employed,Bachelor,65906,10247,3,2.8,4,2.7,946667,12,0,1,High Risk
+10600,21,Self-Employed,Master,277607,24840,4,9.9,1,1.9,200091,60,0,1,Low Risk
+10601,42,Self-Employed,Master,89694,66149,2,13.9,5,1.9,938211,36,0,1,High Risk
+10602,37,Employed,Bachelor,297152,22058,0,15.7,4,4.6,753472,12,0,0,Low Risk
+10603,27,Employed,Master,85474,116229,7,0.9,4,4.3,355741,12,1,1,High Risk
+10604,45,Employed,PhD,53185,35929,0,17.9,3,3.2,710461,36,1,1,Low Risk
+10605,65,Employed,Bachelor,277048,85171,4,11.6,1,3.5,710066,24,1,1,Low Risk
+10606,24,Employed,Bachelor,271574,92164,0,16.3,1,2.9,742444,12,0,1,Low Risk
+10607,56,Employed,Bachelor,217211,32362,6,16.3,5,2.6,25115,36,1,1,High Risk
+10608,26,Employed,Master,37504,87489,3,4.2,4,4.7,85379,48,1,1,High Risk
+10609,51,Employed,Master,69970,85664,7,2.6,1,1.5,243553,60,1,1,High Risk
+10610,39,Unemployed,High School,293910,48356,2,14.6,1,2.7,574267,12,1,1,Low Risk
+10611,64,Employed,Bachelor,131944,78597,0,3.6,5,2.4,706001,48,1,1,High Risk
+10612,59,Unemployed,Bachelor,188615,7041,0,17.1,3,3.0,603665,12,1,1,High Risk
+10613,47,Employed,Bachelor,179211,79209,1,14.7,2,2.8,787146,24,1,1,Low Risk
+10614,30,Employed,High School,135494,62954,1,16.9,0,3.1,540704,36,0,0,Low Risk
+10615,46,Employed,Master,249941,62869,1,6.3,2,1.6,938137,12,1,1,Low Risk
+10616,39,Employed,Bachelor,23802,22059,2,6.7,1,3.1,400929,36,0,1,Low Risk
+10617,59,Employed,Master,186277,100864,3,13.6,4,2.0,665954,12,1,1,High Risk
+10618,23,Self-Employed,Master,26516,45722,5,1.1,0,1.7,417609,24,1,1,High Risk
+10619,65,Employed,Master,128758,18548,3,14.7,0,1.3,438596,24,1,1,Low Risk
+10620,33,Self-Employed,Bachelor,45480,16078,7,16.8,4,4.1,710416,48,0,1,High Risk
+10621,48,Self-Employed,Bachelor,198163,6419,3,8.6,0,2.7,402508,24,1,1,Low Risk
+10622,40,Employed,High School,143023,36490,2,15.4,4,3.5,893939,36,1,1,High Risk
+10623,48,Employed,Bachelor,193838,77086,6,3.9,0,3.9,652531,24,1,1,Low Risk
+10624,28,Self-Employed,High School,286409,116158,6,6.8,5,3.7,932365,12,1,0,High Risk
+10625,61,Employed,Bachelor,129165,59760,2,19.5,5,2.9,637358,24,0,1,High Risk
+10626,59,Employed,High School,134501,31337,1,19.7,2,2.6,570414,36,1,1,Low Risk
+10627,21,Unemployed,High School,264329,2468,0,10.5,0,2.5,614670,12,1,1,Low Risk
+10628,23,Employed,High School,292530,25309,4,18.7,3,3.6,232785,48,1,0,Low Risk
+10629,33,Self-Employed,High School,136635,67344,4,10.7,4,3.0,961186,48,1,1,High Risk
+10630,48,Unemployed,Master,189326,91283,5,6.2,0,4.4,552516,48,1,1,High Risk
+10631,45,Employed,Master,235935,73255,0,5.7,5,4.5,503515,12,1,1,Low Risk
+10632,53,Employed,Bachelor,68634,82899,5,18.6,5,1.7,558297,48,1,1,High Risk
+10633,58,Employed,High School,193734,29718,1,3.9,4,1.5,796526,24,1,1,High Risk
+10634,26,Employed,High School,249856,95337,5,11.8,3,3.5,510204,12,1,1,High Risk
+10635,64,Employed,High School,233599,109895,0,11.3,0,2.2,90636,12,1,1,Low Risk
+10636,65,Self-Employed,High School,252919,38841,7,14.9,0,1.1,193293,12,1,1,Low Risk
+10637,52,Employed,Master,82443,74548,0,10.2,3,4.6,108453,60,1,1,Low Risk
+10638,65,Employed,High School,56505,84565,4,5.8,3,1.9,420646,36,1,0,High Risk
+10639,41,Unemployed,Bachelor,117478,47660,6,3.8,3,4.7,963075,60,0,0,High Risk
+10640,36,Self-Employed,High School,77699,107553,1,12.6,5,3.9,64486,60,1,0,High Risk
+10641,41,Self-Employed,High School,169721,51281,7,14.5,4,4.1,886942,60,1,1,High Risk
+10642,31,Employed,Bachelor,151668,114451,2,11.6,3,1.8,499881,36,1,1,High Risk
+10643,57,Self-Employed,Bachelor,293518,117041,7,14.9,4,1.9,727654,60,1,1,High Risk
+10644,56,Employed,High School,133686,1767,7,3.3,2,3.1,270243,48,1,1,Low Risk
+10645,55,Employed,High School,280919,4895,5,17.7,0,1.7,555148,12,1,1,Low Risk
+10646,39,Employed,Bachelor,298173,59026,4,11.9,0,2.2,344956,12,1,1,Low Risk
+10647,40,Unemployed,High School,98981,119142,5,3.0,1,2.3,338231,24,1,1,High Risk
+10648,38,Employed,High School,129010,43968,5,9.5,2,1.6,254856,48,1,0,High Risk
+10649,61,Employed,PhD,46105,41097,2,17.0,3,1.8,411702,36,0,1,Low Risk
+10650,34,Employed,Bachelor,274021,16332,1,18.0,3,4.2,748423,12,1,1,Low Risk
+10651,35,Employed,Bachelor,162032,15621,0,5.7,5,1.7,59607,60,1,1,High Risk
+10652,51,Self-Employed,Bachelor,141519,77870,3,14.4,2,1.1,412961,24,1,1,High Risk
+10653,21,Self-Employed,Bachelor,157429,19174,5,2.4,3,3.5,378808,24,0,1,High Risk
+10654,23,Self-Employed,Bachelor,292948,100189,3,1.2,1,4.9,219605,12,1,1,Low Risk
+10655,36,Employed,Bachelor,142732,41502,1,11.4,4,2.3,552618,48,0,1,High Risk
+10656,43,Employed,Master,160698,37674,3,14.0,0,1.5,917235,24,1,1,Low Risk
+10657,31,Employed,High School,174204,38260,5,16.0,2,3.3,705438,12,1,1,Low Risk
+10658,32,Employed,Bachelor,285095,43498,2,7.1,0,4.6,720692,48,0,1,Low Risk
+10659,30,Employed,Bachelor,296209,68609,3,0.6,4,4.1,507337,12,0,1,Low Risk
+10660,52,Self-Employed,Master,120072,50464,1,9.9,2,3.5,982036,12,1,1,Low Risk
+10661,36,Employed,Bachelor,155202,72805,1,0.8,4,2.3,786422,48,1,1,High Risk
+10662,28,Employed,Bachelor,104360,65919,6,2.3,3,3.2,231437,48,0,1,High Risk
+10663,58,Employed,High School,77287,55469,6,6.9,3,1.4,315480,48,1,1,High Risk
+10664,32,Employed,Bachelor,253009,18194,2,9.0,3,3.7,542358,12,1,1,Low Risk
+10665,44,Employed,High School,197774,27811,3,5.9,4,3.9,535608,24,0,1,High Risk
+10666,48,Unemployed,Bachelor,183065,73377,3,11.8,4,4.9,885475,36,1,0,High Risk
+10667,28,Self-Employed,High School,177947,44723,6,1.6,4,2.0,311065,36,1,1,High Risk
+10668,48,Unemployed,Bachelor,261356,101336,0,3.3,0,1.1,16589,12,0,1,Low Risk
+10669,56,Employed,High School,152126,76235,4,14.1,4,3.2,991913,12,1,1,High Risk
+10670,46,Employed,Bachelor,245881,112041,1,3.3,3,3.8,889427,24,1,1,Low Risk
+10671,28,Employed,Master,122357,77298,0,13.0,1,4.2,549877,48,1,1,Low Risk
+10672,48,Employed,High School,222440,60238,1,1.6,4,1.8,46375,12,0,1,High Risk
+10673,48,Self-Employed,Bachelor,44670,106433,7,8.4,1,2.0,53085,60,0,1,High Risk
+10674,57,Employed,Bachelor,174379,118393,7,4.0,3,3.1,595128,48,1,1,High Risk
+10675,61,Employed,High School,259159,108092,0,2.6,4,2.3,708560,12,0,1,High Risk
+10676,56,Employed,Master,213159,3147,7,11.6,0,4.4,632992,60,1,1,Low Risk
+10677,47,Employed,High School,209152,99919,6,18.6,0,2.9,954236,24,0,1,Low Risk
+10678,37,Self-Employed,Bachelor,94335,100251,6,1.6,1,4.2,893479,60,1,1,Low Risk
+10679,29,Employed,Bachelor,81985,39445,4,8.7,5,3.3,949930,12,1,1,High Risk
+10680,53,Employed,Bachelor,145744,54803,0,14.3,0,4.1,40982,36,1,1,Low Risk
+10681,40,Employed,Bachelor,266713,62108,1,9.5,0,2.3,856152,12,1,1,Low Risk
+10682,33,Employed,Bachelor,186349,107170,3,16.2,0,4.3,944250,36,1,1,Low Risk
+10683,48,Self-Employed,High School,46551,3013,1,4.0,3,2.1,300658,24,1,1,High Risk
+10684,49,Unemployed,Master,104813,86617,5,19.2,0,3.2,205961,24,1,0,Low Risk
+10685,33,Unemployed,Bachelor,191284,83410,6,8.0,2,1.9,407067,48,1,1,High Risk
+10686,55,Self-Employed,Master,24637,54502,2,7.2,4,2.9,947300,48,1,1,High Risk
+10687,26,Employed,Master,144553,118116,2,17.6,0,2.3,610322,36,0,1,Low Risk
+10688,38,Self-Employed,Master,41950,38755,6,11.5,5,2.1,990302,36,1,1,High Risk
+10689,25,Employed,Bachelor,142870,9733,5,10.6,5,4.9,370532,24,1,1,High Risk
+10690,45,Employed,Bachelor,15215,10479,2,14.7,0,1.6,466201,60,1,1,Low Risk
+10691,22,Self-Employed,Master,288667,76361,7,11.8,0,4.1,962096,36,1,1,Low Risk
+10692,30,Employed,Bachelor,38834,22304,6,3.7,2,4.9,54845,36,1,1,Low Risk
+10693,50,Unemployed,High School,58066,36694,2,13.6,0,1.1,943434,60,0,1,High Risk
+10694,65,Employed,Master,287544,106586,6,3.1,0,3.8,264259,48,1,1,Low Risk
+10695,25,Self-Employed,Master,25345,82171,4,16.2,4,2.0,907285,48,0,1,High Risk
+10696,53,Self-Employed,Bachelor,48896,115151,3,19.8,5,1.2,118417,36,0,1,High Risk
+10697,21,Unemployed,High School,282727,87296,3,7.9,2,2.6,123436,48,1,1,High Risk
+10698,38,Self-Employed,Bachelor,86537,10490,1,9.2,5,4.7,248198,48,1,0,High Risk
+10699,52,Self-Employed,Master,255489,22252,5,1.4,2,1.0,293303,48,1,1,High Risk
+10700,31,Employed,Master,89807,106290,6,0.8,5,3.4,498288,24,1,1,High Risk
+10701,41,Employed,High School,144648,7862,0,18.5,0,3.0,99788,12,0,1,Low Risk
+10702,46,Employed,High School,159401,111463,1,3.0,5,4.5,558291,36,1,1,High Risk
+10703,45,Self-Employed,Master,247117,70959,1,9.2,5,1.3,640010,36,1,1,High Risk
+10704,42,Employed,Bachelor,263780,11450,6,16.4,2,3.7,831571,24,1,1,Low Risk
+10705,47,Self-Employed,Bachelor,228286,57022,6,17.8,1,3.7,246444,12,1,0,Low Risk
+10706,33,Employed,PhD,52052,62991,1,10.6,2,3.7,848884,12,0,1,Low Risk
+10707,53,Employed,High School,61032,41927,1,11.5,2,4.8,32205,24,1,1,Low Risk
+10708,54,Self-Employed,Bachelor,113802,101377,3,13.6,2,4.3,761419,60,1,1,High Risk
+10709,61,Employed,High School,249337,89090,0,19.2,3,1.2,591243,60,1,1,High Risk
+10710,55,Employed,Bachelor,187857,50853,7,12.3,3,2.9,775523,12,1,1,High Risk
+10711,21,Employed,Master,211753,32826,1,11.4,3,2.6,279608,60,1,1,Low Risk
+10712,41,Unemployed,Bachelor,235934,43879,7,0.8,2,2.2,748006,60,0,1,High Risk
+10713,26,Self-Employed,PhD,241599,58265,3,2.1,1,2.8,213729,60,1,1,Low Risk
+10714,48,Employed,Bachelor,128221,73361,1,11.8,2,2.5,281984,12,1,1,Low Risk
+10715,37,Employed,Bachelor,141457,109956,2,18.8,0,2.7,505832,60,0,1,Low Risk
+10716,25,Employed,High School,293720,78990,1,17.4,1,4.9,312912,36,1,1,Low Risk
+10717,51,Self-Employed,Bachelor,134875,90787,6,19.7,3,1.4,936965,12,0,1,High Risk
+10718,25,Self-Employed,Bachelor,46601,87184,5,10.8,5,4.7,817359,24,1,1,High Risk
+10719,58,Employed,High School,119186,41736,5,15.9,5,2.9,895054,60,0,1,High Risk
+10720,23,Employed,Bachelor,180707,25530,1,16.9,4,3.5,25329,48,1,1,Low Risk
+10721,43,Employed,Bachelor,284609,79052,4,13.1,1,4.3,25791,12,1,1,Low Risk
+10722,57,Self-Employed,Master,71754,48058,2,7.1,3,2.4,324771,24,1,1,High Risk
+10723,57,Self-Employed,Bachelor,244047,107080,0,9.7,1,2.7,401029,36,1,0,Low Risk
+10724,30,Employed,Master,107850,75094,1,17.2,1,2.6,679732,24,1,1,Low Risk
+10725,30,Employed,High School,231191,75255,7,6.3,5,2.5,496106,60,1,1,High Risk
+10726,39,Employed,High School,53871,5886,0,18.5,2,4.7,713829,48,1,1,Low Risk
+10727,37,Unemployed,Bachelor,208946,94721,2,5.0,0,4.3,381698,60,1,1,Low Risk
+10728,41,Employed,Bachelor,264200,119623,1,15.1,4,1.4,140436,24,0,1,Low Risk
+10729,34,Self-Employed,High School,216239,38387,4,12.8,3,1.4,97073,12,1,1,High Risk
+10730,29,Self-Employed,Master,249453,22575,3,15.1,1,2.7,259894,48,1,1,Low Risk
+10731,21,Employed,Master,47574,113260,4,9.0,4,1.4,306514,48,1,1,High Risk
+10732,65,Employed,Bachelor,117072,109649,6,18.7,1,3.5,61408,24,0,1,Low Risk
+10733,33,Employed,High School,219603,40643,4,12.8,5,1.6,363085,60,1,1,High Risk
+10734,24,Self-Employed,Master,171258,11100,7,6.1,0,3.1,426919,24,0,1,Low Risk
+10735,21,Self-Employed,Bachelor,168885,61356,3,12.9,5,1.0,156306,48,1,0,High Risk
+10736,60,Self-Employed,Master,224884,8856,6,6.1,4,2.3,148604,24,1,1,High Risk
+10737,52,Employed,Master,231597,39169,3,6.2,3,3.7,307560,48,1,1,Low Risk
+10738,54,Employed,Master,124779,29804,5,8.3,1,2.9,82439,60,1,1,Low Risk
+10739,48,Unemployed,Bachelor,33557,36790,3,17.1,0,4.9,552530,12,1,1,Low Risk
+10740,51,Self-Employed,High School,174132,31988,1,10.3,5,4.5,715614,12,0,1,High Risk
+10741,28,Employed,Bachelor,246977,110979,0,13.7,4,2.4,875756,24,0,1,High Risk
+10742,59,Unemployed,Bachelor,152152,77448,5,8.1,5,1.2,831681,48,1,1,High Risk
+10743,46,Self-Employed,Master,159926,39506,5,5.6,1,4.4,896556,12,1,1,Low Risk
+10744,54,Employed,High School,213767,114430,0,19.1,1,4.6,891481,48,1,1,Low Risk
+10745,23,Self-Employed,High School,173097,88904,7,12.3,3,4.3,249647,60,1,1,High Risk
+10746,32,Self-Employed,Master,199054,68306,5,18.7,0,1.5,881510,24,1,1,Low Risk
+10747,21,Self-Employed,Master,56081,13305,3,4.5,2,5.0,304438,48,1,1,Low Risk
+10748,64,Employed,Master,245693,10969,4,3.4,5,2.0,725144,24,1,1,High Risk
+10749,25,Employed,Master,170063,13404,2,17.2,1,3.9,406900,48,1,1,Low Risk
+10750,50,Unemployed,Bachelor,278445,9989,7,13.8,4,4.6,427011,48,1,1,High Risk
+10751,50,Employed,Bachelor,174682,66305,3,4.1,5,1.9,527351,60,1,1,High Risk
+10752,37,Employed,Master,96463,36983,6,5.8,3,4.6,725661,24,1,1,High Risk
+10753,43,Employed,Bachelor,180750,111284,6,16.1,3,2.2,472403,36,1,1,High Risk
+10754,35,Employed,Bachelor,41081,40462,4,9.4,1,4.9,151503,48,1,1,Low Risk
+10755,57,Self-Employed,High School,39354,20360,7,13.6,1,2.1,478883,48,0,0,High Risk
+10756,41,Unemployed,Bachelor,108297,86657,7,6.7,1,4.8,361771,12,0,1,Low Risk
+10757,34,Employed,Master,295444,27287,4,7.9,2,1.2,100381,24,1,1,Low Risk
+10758,22,Employed,Bachelor,79384,66472,7,19.8,1,3.8,362171,36,1,1,Low Risk
+10759,31,Employed,High School,136684,116440,5,5.3,5,3.1,262641,60,1,1,High Risk
+10760,59,Unemployed,Bachelor,50525,109965,1,10.4,5,2.9,720732,36,1,1,High Risk
+10761,58,Self-Employed,High School,21464,62313,1,17.0,0,1.9,866798,60,1,1,High Risk
+10762,54,Employed,High School,31562,35160,7,5.2,4,3.8,104176,36,0,1,High Risk
+10763,58,Self-Employed,Bachelor,70514,7789,5,8.6,1,1.8,653955,36,0,1,Low Risk
+10764,54,Unemployed,Master,127564,28181,5,12.5,5,3.2,345014,24,1,0,High Risk
+10765,38,Self-Employed,Bachelor,47634,15385,0,9.9,5,2.0,581675,12,0,1,High Risk
+10766,50,Unemployed,High School,277204,83597,0,9.5,5,4.8,718287,36,0,1,High Risk
+10767,35,Employed,High School,286413,66641,2,7.6,2,1.1,805736,48,1,1,High Risk
+10768,47,Self-Employed,Bachelor,209215,45247,2,11.9,4,1.8,516399,48,0,1,High Risk
+10769,54,Employed,Bachelor,38065,87673,2,12.7,3,2.0,813464,48,1,1,High Risk
+10770,58,Self-Employed,Master,280039,101250,2,13.2,5,2.7,101291,12,1,1,High Risk
+10771,53,Self-Employed,Bachelor,158424,6544,4,1.9,1,1.9,909321,36,1,1,Low Risk
+10772,44,Self-Employed,Master,119127,116783,4,12.8,5,3.0,69486,60,1,1,High Risk
+10773,35,Self-Employed,Bachelor,111426,14275,0,19.1,4,4.5,599840,60,1,1,Low Risk
+10774,50,Employed,Bachelor,207376,106289,1,11.0,3,3.8,432870,24,0,1,Low Risk
+10775,62,Employed,Bachelor,26962,64248,5,14.4,2,3.3,49244,12,0,0,Low Risk
+10776,37,Unemployed,Master,48302,35550,6,11.4,0,1.4,409158,36,1,1,High Risk
+10777,25,Unemployed,Bachelor,19011,54693,1,17.2,1,3.8,60697,48,0,1,Low Risk
+10778,49,Employed,Bachelor,34782,20641,3,18.6,0,1.7,922463,12,0,1,Low Risk
+10779,24,Employed,Bachelor,213763,72749,4,4.1,2,4.1,799125,12,1,1,Low Risk
+10780,30,Employed,High School,135654,81021,2,9.0,4,2.0,722111,36,1,0,High Risk
+10781,37,Self-Employed,Bachelor,24196,16605,2,8.2,4,2.7,91098,24,1,1,High Risk
+10782,30,Self-Employed,High School,58459,104173,3,8.4,2,2.4,540547,24,0,0,High Risk
+10783,37,Employed,Bachelor,102245,51713,1,2.9,5,4.4,654034,24,1,1,High Risk
+10784,40,Employed,Bachelor,93863,21390,2,16.4,2,1.5,517099,48,1,0,High Risk
+10785,44,Self-Employed,Bachelor,265463,76403,1,1.2,1,3.3,117772,48,0,1,Low Risk
+10786,25,Self-Employed,Master,47769,59466,5,10.8,3,1.6,127928,36,0,1,High Risk
+10787,54,Employed,Master,271433,4981,3,13.4,0,3.8,932446,24,1,1,Low Risk
+10788,26,Employed,Master,39700,10493,6,4.5,0,4.6,57419,36,1,1,Low Risk
+10789,22,Employed,High School,261864,72218,1,18.2,4,2.7,374236,24,1,0,High Risk
+10790,33,Employed,High School,226428,72318,5,16.9,5,3.0,328249,12,0,1,High Risk
+10791,63,Employed,Bachelor,246237,116631,7,9.7,4,4.7,206979,60,1,0,High Risk
+10792,63,Self-Employed,Bachelor,282413,96335,7,8.5,1,3.1,692743,60,1,1,Low Risk
+10793,31,Unemployed,Bachelor,129003,108441,1,5.1,2,3.0,33404,24,0,1,High Risk
+10794,43,Self-Employed,High School,154392,17984,7,14.7,0,3.3,869088,36,0,1,Low Risk
+10795,36,Self-Employed,Bachelor,64589,112316,1,3.1,1,3.8,146774,48,1,1,Low Risk
+10796,51,Employed,High School,265606,23760,2,13.8,4,1.4,477099,24,1,1,High Risk
+10797,31,Employed,Master,222348,92529,0,16.9,4,4.3,110965,24,1,1,Low Risk
+10798,36,Employed,High School,50897,2524,7,5.0,0,2.7,590620,48,1,1,Low Risk
+10799,28,Employed,Bachelor,204637,119454,4,17.4,4,1.3,180491,24,1,1,High Risk
+10800,24,Self-Employed,High School,177002,50402,1,1.1,5,4.1,755936,12,1,1,High Risk
+10801,60,Unemployed,Bachelor,203305,92656,1,18.3,4,2.5,637470,48,1,1,High Risk
+10802,24,Employed,Bachelor,228893,66614,1,2.8,3,1.4,383539,12,1,1,High Risk
+10803,45,Employed,Master,291524,36891,0,13.1,2,3.5,899051,60,1,1,Low Risk
+10804,23,Self-Employed,Master,222968,92009,5,5.4,4,4.5,491294,48,1,1,High Risk
+10805,52,Employed,Bachelor,85934,40832,7,16.8,3,4.6,118269,48,0,1,Low Risk
+10806,23,Employed,Master,70830,46836,6,10.5,1,4.8,870276,36,1,1,Low Risk
+10807,47,Self-Employed,PhD,282673,74953,6,3.1,4,4.5,442458,36,0,1,High Risk
+10808,49,Self-Employed,Master,267364,14362,3,11.6,5,1.0,921415,48,1,0,High Risk
+10809,52,Employed,Master,248294,67745,2,8.5,1,2.5,44142,60,1,1,Low Risk
+10810,39,Employed,High School,97987,38921,0,13.4,4,4.3,119699,24,1,1,Low Risk
+10811,41,Self-Employed,Bachelor,64178,71434,5,17.7,0,2.5,630514,36,1,1,Low Risk
+10812,25,Employed,High School,153009,19562,1,8.5,3,3.4,279537,60,1,1,Low Risk
+10813,38,Employed,High School,54886,65510,5,6.2,3,3.4,735299,60,0,1,High Risk
+10814,48,Self-Employed,PhD,64699,77407,0,0.8,0,2.5,734442,36,0,1,Low Risk
+10815,62,Employed,Bachelor,91396,8610,0,11.7,2,4.6,112281,24,1,1,Low Risk
+10816,42,Self-Employed,Master,105678,110381,0,8.3,5,3.0,432109,36,1,1,High Risk
+10817,41,Employed,Master,40279,93918,3,7.8,3,2.9,543676,60,1,1,High Risk
+10818,26,Unemployed,Master,125776,16791,4,4.1,1,5.0,521315,12,1,1,Low Risk
+10819,21,Employed,PhD,116444,59047,2,8.9,5,3.0,510508,36,0,1,High Risk
+10820,25,Employed,High School,128793,101848,3,19.7,3,1.7,72969,60,1,1,High Risk
+10821,61,Employed,High School,225809,104826,3,6.3,2,3.1,570948,36,1,1,Low Risk
+10822,32,Employed,Bachelor,186616,68906,7,12.2,1,4.3,99244,60,1,1,Low Risk
+10823,46,Unemployed,High School,257262,20665,4,15.6,5,4.1,952230,24,1,1,High Risk
+10824,54,Unemployed,High School,23997,71246,3,15.1,1,4.2,613832,60,0,1,High Risk
+10825,34,Employed,Bachelor,121102,66864,0,6.9,0,3.8,766913,48,1,1,Low Risk
+10826,46,Employed,Master,55860,47451,0,12.4,4,2.0,204068,12,0,0,High Risk
+10827,65,Self-Employed,Bachelor,280369,104883,7,17.5,0,4.4,403327,60,0,1,Low Risk
+10828,47,Unemployed,Bachelor,125114,87148,5,0.8,5,4.6,649658,36,1,1,High Risk
+10829,29,Employed,Bachelor,128218,46890,1,9.0,4,1.8,551833,36,1,1,High Risk
+10830,46,Employed,High School,122041,7794,3,4.9,0,1.5,967672,60,1,1,High Risk
+10831,42,Employed,High School,207150,33888,1,8.1,4,4.9,667739,48,1,0,High Risk
+10832,50,Self-Employed,Master,91290,7749,2,8.6,3,4.5,236845,60,1,1,Low Risk
+10833,63,Employed,Bachelor,71633,47531,6,15.1,1,4.6,514700,24,1,1,Low Risk
+10834,37,Self-Employed,Master,136118,116652,0,2.3,4,4.5,883778,48,0,1,High Risk
+10835,46,Employed,High School,189673,21608,5,10.5,3,3.2,706480,60,1,1,Low Risk
+10836,56,Self-Employed,Master,18114,81986,2,11.5,2,3.6,289953,12,1,1,High Risk
+10837,21,Employed,Bachelor,64768,70211,7,10.1,0,3.2,980317,48,1,1,Low Risk
+10838,28,Employed,Bachelor,98123,84996,5,14.8,2,1.2,477221,60,0,1,High Risk
+10839,55,Employed,Bachelor,123255,57017,6,8.0,5,4.0,300111,12,0,0,High Risk
+10840,35,Self-Employed,Master,181405,104947,6,18.9,3,3.0,937252,60,1,1,High Risk
+10841,42,Employed,Bachelor,18174,58676,7,9.9,2,3.6,33424,24,1,1,Low Risk
+10842,34,Employed,Bachelor,132769,12560,4,11.6,2,3.0,951418,36,1,1,Low Risk
+10843,46,Employed,PhD,150393,55401,7,16.6,3,3.0,760963,60,1,1,High Risk
+10844,48,Employed,Master,242043,51468,0,5.9,1,1.7,904843,48,1,1,Low Risk
+10845,43,Self-Employed,Bachelor,257580,116884,2,2.0,4,2.1,743838,60,1,1,High Risk
+10846,34,Self-Employed,Master,201493,33463,4,14.3,5,1.6,422707,60,1,1,High Risk
+10847,44,Self-Employed,Bachelor,87635,32663,6,9.9,5,1.8,190526,60,0,1,High Risk
+10848,22,Employed,High School,156385,114687,2,18.0,0,4.9,342213,60,1,1,Low Risk
+10849,65,Self-Employed,Bachelor,257878,69706,5,19.7,4,1.6,192997,48,1,0,High Risk
+10850,46,Employed,Master,232070,59773,4,8.3,0,2.1,885551,48,0,0,Low Risk
+10851,34,Employed,Master,291274,34123,4,8.6,5,3.4,571337,60,0,1,High Risk
+10852,27,Employed,Bachelor,165056,95346,0,8.5,4,3.4,299965,36,0,0,High Risk
+10853,23,Employed,Bachelor,158933,10718,7,6.8,2,1.6,892229,60,1,0,High Risk
+10854,43,Self-Employed,High School,113970,63637,1,15.7,1,4.2,695305,48,1,1,Low Risk
+10855,63,Self-Employed,PhD,97203,1028,5,15.3,2,4.1,944888,24,1,0,Low Risk
+10856,65,Self-Employed,PhD,207319,63370,5,9.8,1,1.9,431626,60,1,1,Low Risk
+10857,38,Employed,Bachelor,215173,48599,7,1.4,3,2.2,87734,60,1,0,High Risk
+10858,58,Employed,Master,167049,18397,4,6.5,0,4.8,466982,60,0,1,Low Risk
+10859,55,Employed,Master,232726,110198,4,6.2,0,4.3,235962,60,0,1,Low Risk
+10860,35,Employed,Bachelor,87902,108323,0,16.3,3,3.8,519622,12,1,1,High Risk
+10861,45,Employed,High School,107172,46406,1,2.2,4,1.3,410385,60,1,1,High Risk
+10862,57,Employed,Bachelor,161702,48657,5,16.2,3,2.7,967633,48,1,0,High Risk
+10863,48,Employed,Bachelor,35056,68560,6,13.5,5,3.2,369589,48,1,1,High Risk
+10864,30,Employed,Bachelor,153454,105143,3,14.8,3,1.7,538118,12,1,1,High Risk
+10865,59,Self-Employed,Bachelor,70739,14503,3,8.9,1,2.8,983810,60,1,0,Low Risk
+10866,37,Unemployed,Master,63639,55943,1,13.8,5,3.4,883372,36,0,1,High Risk
+10867,59,Unemployed,High School,278136,76839,2,12.4,3,2.3,206339,60,1,1,High Risk
+10868,42,Self-Employed,Bachelor,87394,83674,0,15.5,0,4.1,168829,48,0,1,Low Risk
+10869,46,Employed,Bachelor,197447,26345,1,9.2,2,4.4,73867,24,1,0,Low Risk
+10870,64,Self-Employed,Bachelor,165644,119423,7,9.7,1,2.3,963154,24,0,1,High Risk
+10871,45,Self-Employed,Bachelor,19136,51390,7,13.0,1,4.4,699126,36,1,0,Low Risk
+10872,37,Employed,Bachelor,76868,96041,3,2.6,4,1.4,828851,60,1,1,High Risk
+10873,33,Employed,High School,125957,60557,4,9.0,2,4.4,813100,12,1,1,Low Risk
+10874,40,Self-Employed,Bachelor,30479,66054,3,19.5,1,1.6,419462,60,1,1,High Risk
+10875,45,Employed,Bachelor,134392,2906,4,1.2,3,1.3,34996,36,1,1,High Risk
+10876,24,Employed,High School,177448,41167,0,6.7,1,3.6,323456,36,1,1,Low Risk
+10877,30,Employed,Master,150895,8961,4,6.6,1,2.9,668425,36,1,1,Low Risk
+10878,23,Employed,Bachelor,271228,27140,1,12.9,1,4.6,282611,24,1,1,Low Risk
+10879,61,Employed,Bachelor,216528,59701,4,2.6,4,2.5,978150,60,0,1,High Risk
+10880,65,Employed,Master,296729,78567,2,12.8,1,2.1,251452,60,1,1,Low Risk
+10881,38,Employed,High School,249847,81664,7,2.4,1,3.0,686367,12,1,1,Low Risk
+10882,56,Employed,High School,280864,82199,1,2.4,4,2.8,733439,36,1,1,High Risk
+10883,42,Self-Employed,Master,296411,100764,7,14.7,5,2.4,300846,36,1,0,High Risk
+10884,54,Employed,Bachelor,161768,82218,0,6.8,2,3.8,628657,48,0,1,Low Risk
+10885,28,Employed,Bachelor,176040,81729,1,19.6,5,4.0,609857,48,1,1,Low Risk
+10886,60,Employed,Master,66567,29561,2,1.2,0,4.4,326096,24,1,1,Low Risk
+10887,64,Unemployed,Master,106229,51568,0,9.2,4,4.9,985569,60,0,0,High Risk
+10888,39,Employed,PhD,214316,110349,3,2.7,4,2.1,568457,12,1,1,High Risk
+10889,62,Employed,Bachelor,211497,74302,2,7.4,1,3.9,26829,12,1,1,Low Risk
+10890,61,Unemployed,Bachelor,97844,96380,0,20.0,1,2.6,987639,36,0,1,High Risk
+10891,57,Self-Employed,Bachelor,178991,95968,6,17.8,0,3.7,14522,12,0,1,Low Risk
+10892,26,Employed,High School,105697,30504,4,1.4,1,2.9,882119,36,1,1,Low Risk
+10893,46,Self-Employed,Bachelor,72196,117116,1,11.5,3,5.0,438535,60,0,1,High Risk
+10894,54,Employed,Bachelor,130600,38146,0,13.1,1,3.9,392478,12,1,1,Low Risk
+10895,65,Employed,Master,115625,41297,1,4.6,1,4.8,954047,36,1,1,Low Risk
+10896,26,Employed,Bachelor,48324,87394,4,3.3,3,4.3,128576,60,1,1,High Risk
+10897,57,Employed,Bachelor,66272,69607,0,18.1,0,4.6,506336,60,1,1,Low Risk
+10898,53,Self-Employed,Bachelor,264264,17939,3,19.4,3,4.3,913851,36,1,1,Low Risk
+10899,42,Employed,High School,178996,91467,6,19.8,4,2.8,171545,36,1,1,High Risk
+10900,41,Employed,High School,242459,51715,6,15.9,3,2.0,804131,24,1,1,High Risk
+10901,26,Self-Employed,Bachelor,169961,45460,2,13.4,2,2.5,78165,60,1,1,Low Risk
+10902,26,Self-Employed,High School,251538,67576,0,7.2,4,1.1,443671,36,1,1,High Risk
+10903,24,Employed,Bachelor,69675,69222,4,3.8,1,3.1,609980,60,1,1,Low Risk
+10904,50,Self-Employed,Master,88591,13666,0,2.0,4,3.0,551729,12,0,1,High Risk
+10905,31,Employed,Master,168706,63119,1,14.0,0,3.1,40716,48,1,1,Low Risk
+10906,50,Self-Employed,Bachelor,209824,36321,5,15.8,0,4.9,596463,48,1,1,Low Risk
+10907,51,Self-Employed,High School,244530,2779,7,16.6,3,4.6,16834,36,1,1,Low Risk
+10908,44,Unemployed,Master,128627,14186,0,18.3,4,1.6,526853,36,0,1,High Risk
+10909,29,Employed,Master,228988,17459,6,17.7,1,2.5,271609,60,1,1,Low Risk
+10910,23,Employed,High School,52394,87246,6,20.0,0,2.7,28179,36,1,0,Low Risk
+10911,51,Employed,Master,94795,88755,7,5.3,5,2.4,298363,60,1,1,High Risk
+10912,60,Employed,Bachelor,290160,6057,6,15.4,1,4.2,113153,36,1,1,Low Risk
+10913,57,Employed,Master,57137,61663,3,11.9,5,3.1,681142,60,1,1,High Risk
+10914,56,Unemployed,PhD,153925,19733,0,5.6,2,3.3,484579,36,1,1,High Risk
+10915,44,Employed,High School,27379,20157,2,19.6,5,4.4,788263,24,1,1,High Risk
+10916,51,Employed,Master,136169,36030,0,18.0,0,4.2,609255,60,0,1,Low Risk
+10917,26,Self-Employed,Bachelor,184439,20613,5,3.0,3,1.5,898886,24,1,1,High Risk
+10918,22,Employed,PhD,164172,109612,6,1.0,2,3.9,543784,24,0,1,Low Risk
+10919,40,Self-Employed,Bachelor,141082,116080,1,13.9,4,2.7,754227,24,1,0,High Risk
+10920,48,Employed,Master,26049,84028,6,12.3,1,2.2,704598,24,0,1,High Risk
+10921,31,Employed,High School,176771,87282,0,18.7,0,1.2,56025,12,1,0,Low Risk
+10922,24,Employed,Bachelor,183112,6188,3,5.1,2,2.9,270281,48,1,1,Low Risk
+10923,35,Employed,High School,264527,108106,4,2.1,2,2.4,332030,12,1,0,High Risk
+10924,26,Unemployed,PhD,239062,30680,0,5.6,0,2.0,426779,36,1,1,Low Risk
+10925,50,Employed,Master,72986,104361,0,0.9,4,3.8,800144,36,1,1,High Risk
+10926,58,Employed,Master,169672,61119,2,1.2,4,4.1,366211,48,0,1,Low Risk
+10927,22,Employed,Master,236849,103302,3,18.3,3,2.0,317633,48,1,1,Low Risk
+10928,35,Employed,High School,231775,75400,5,7.4,5,1.2,42664,48,1,1,High Risk
+10929,31,Unemployed,Bachelor,120315,56718,4,8.5,4,4.4,776159,24,0,1,High Risk
+10930,28,Employed,High School,297229,37445,6,0.9,3,1.0,153492,12,0,1,High Risk
+10931,46,Self-Employed,High School,192926,6796,1,5.8,5,4.7,982114,36,1,1,High Risk
+10932,65,Unemployed,High School,230341,48218,0,16.2,2,3.5,801747,12,0,1,Low Risk
+10933,64,Employed,Bachelor,185851,40131,5,12.5,0,2.3,474133,12,1,1,Low Risk
+10934,25,Unemployed,Bachelor,202279,9123,4,15.2,4,2.0,871465,12,0,1,High Risk
+10935,26,Employed,High School,240687,9222,1,9.2,3,1.0,235648,48,1,1,Low Risk
+10936,46,Employed,High School,160213,25074,5,6.5,2,1.9,652150,48,0,1,High Risk
+10937,24,Employed,High School,155416,112958,3,9.9,4,1.6,501127,36,1,1,High Risk
+10938,39,Self-Employed,PhD,30896,117088,3,6.8,1,3.4,613318,36,1,1,Low Risk
+10939,40,Unemployed,Master,104353,30825,4,16.9,2,1.7,73910,36,1,1,High Risk
+10940,53,Employed,PhD,44813,37839,6,6.3,4,3.1,762648,12,1,0,High Risk
+10941,40,Self-Employed,Bachelor,230503,108112,7,13.4,2,3.4,988476,48,1,1,High Risk
+10942,32,Employed,Bachelor,80679,69322,1,3.2,0,2.2,917507,24,0,1,Low Risk
+10943,21,Employed,Master,156753,57321,3,13.9,0,1.1,756253,12,0,1,Low Risk
+10944,46,Employed,Bachelor,218975,100174,7,18.3,0,1.1,328063,60,0,1,Low Risk
+10945,34,Unemployed,Bachelor,280372,103500,4,12.4,5,1.1,746648,12,1,1,High Risk
+10946,58,Self-Employed,High School,224755,111100,3,11.4,1,4.0,506142,48,1,1,Low Risk
+10947,57,Employed,High School,288541,26988,3,19.2,0,2.3,407348,60,1,1,Low Risk
+10948,31,Employed,Bachelor,94183,36507,5,12.7,1,4.2,399297,12,1,1,Low Risk
+10949,56,Employed,Bachelor,57317,100244,7,5.6,0,2.7,51598,48,1,0,Low Risk
+10950,33,Employed,Bachelor,193986,99644,5,6.2,5,2.8,497028,48,1,1,High Risk
+10951,63,Employed,High School,230705,96251,3,14.3,2,3.1,508515,24,1,1,Low Risk
+10952,23,Unemployed,High School,191326,24806,7,14.8,4,3.9,948055,12,1,0,High Risk
+10953,53,Employed,Master,67344,37901,2,6.4,4,2.1,864638,48,0,1,High Risk
+10954,26,Employed,High School,261060,18043,7,7.2,0,1.5,347044,36,1,1,Low Risk
+10955,30,Employed,Bachelor,214618,76761,5,19.8,4,3.2,36296,48,1,1,Low Risk
+10956,25,Unemployed,Master,174484,10752,1,2.5,0,2.3,159138,24,1,1,Low Risk
+10957,43,Self-Employed,High School,125489,69993,4,8.4,0,2.8,169964,48,1,1,Low Risk
+10958,30,Employed,High School,273667,43616,4,1.7,3,3.6,609865,12,1,1,Low Risk
+10959,64,Self-Employed,Bachelor,26549,53127,6,16.5,3,3.0,739950,12,1,1,High Risk
+10960,22,Employed,Bachelor,40739,75777,1,2.3,3,3.5,611461,60,0,1,High Risk
+10961,33,Employed,Bachelor,298353,1453,1,13.6,1,3.2,479509,12,1,0,Low Risk
+10962,60,Employed,Master,122051,76432,1,1.6,3,4.0,74771,60,1,1,Low Risk
+10963,22,Employed,High School,30116,88362,6,13.6,0,3.8,510010,36,1,1,Low Risk
+10964,40,Employed,Bachelor,35045,11976,1,16.9,5,3.1,954988,24,1,1,High Risk
+10965,21,Unemployed,Bachelor,50709,115176,0,8.3,5,3.7,874297,36,0,1,High Risk
+10966,57,Self-Employed,High School,172977,100122,6,10.7,2,4.5,109074,60,1,1,High Risk
+10967,29,Self-Employed,Bachelor,218675,71404,4,8.3,3,2.7,533136,48,1,1,High Risk
+10968,37,Employed,Bachelor,244167,82932,0,6.4,5,2.7,430331,48,1,1,High Risk
+10969,29,Employed,Bachelor,234222,98170,6,16.2,3,4.1,691398,36,1,1,High Risk
+10970,31,Self-Employed,High School,204518,78707,3,5.8,2,3.3,570910,48,0,1,High Risk
+10971,35,Employed,Bachelor,198500,90647,3,14.6,5,1.3,308030,60,0,1,High Risk
+10972,44,Employed,Bachelor,283591,34688,4,4.5,0,4.6,978788,24,1,1,Low Risk
+10973,58,Employed,Master,20499,87840,3,5.4,1,1.1,150973,12,1,1,Low Risk
+10974,55,Self-Employed,High School,54041,118106,1,7.1,3,4.0,852809,60,1,1,High Risk
+10975,50,Employed,Bachelor,147371,108810,6,12.0,5,4.0,92910,60,1,1,High Risk
+10976,51,Employed,Bachelor,151066,105779,0,9.4,5,4.8,190934,12,0,1,High Risk
+10977,25,Self-Employed,Master,241486,94789,1,15.0,2,1.2,391136,12,0,1,Low Risk
+10978,64,Employed,Bachelor,227235,97516,3,4.7,0,3.4,523271,24,1,1,Low Risk
+10979,34,Employed,Bachelor,272831,3017,5,0.7,4,2.7,515042,24,1,1,High Risk
+10980,31,Employed,Master,131220,8957,7,15.6,5,2.3,173878,24,1,1,High Risk
+10981,29,Employed,Master,236421,115534,0,16.5,1,1.4,683019,48,1,1,Low Risk
+10982,54,Self-Employed,Bachelor,279140,108724,1,1.7,2,3.3,164525,60,1,1,Low Risk
+10983,32,Employed,Bachelor,266071,5792,6,12.4,5,2.9,958002,12,0,1,High Risk
+10984,55,Employed,Master,18089,56982,4,7.9,5,1.4,473609,60,1,1,High Risk
+10985,55,Unemployed,PhD,297803,14237,1,16.0,2,3.4,812744,60,0,1,Low Risk
+10986,21,Unemployed,Master,110965,52586,5,17.6,2,4.0,797868,24,1,1,High Risk
+10987,60,Unemployed,Bachelor,96268,82787,3,17.1,3,4.1,824001,24,1,1,High Risk
+10988,42,Employed,High School,216798,20252,0,15.7,5,4.6,462029,60,1,1,Low Risk
+10989,49,Employed,Bachelor,252103,11707,4,5.7,4,2.6,651075,24,1,1,High Risk
+10990,28,Unemployed,Master,259754,35206,0,16.3,1,4.8,624773,48,1,1,Low Risk
+10991,31,Self-Employed,Bachelor,180637,95276,4,10.9,0,4.5,711346,12,1,1,Low Risk
+10992,61,Employed,Bachelor,104242,4543,7,1.5,0,2.2,374699,60,0,1,Low Risk
+10993,57,Employed,Master,168956,45135,6,9.4,4,1.6,718537,12,0,1,High Risk
+10994,34,Employed,Bachelor,294343,117469,0,18.9,2,2.7,412521,48,1,1,Low Risk
+10995,50,Unemployed,Master,75038,114824,3,17.8,2,2.6,42646,24,1,1,High Risk
+10996,55,Employed,Bachelor,72786,105647,6,2.5,2,3.3,86126,36,1,1,High Risk
+10997,41,Employed,Bachelor,251042,36031,6,15.0,5,3.3,524116,48,0,1,High Risk
+10998,57,Employed,Bachelor,224087,43929,7,16.2,2,4.0,652210,36,1,1,Low Risk
+10999,25,Self-Employed,Master,180250,66747,4,5.8,2,3.0,265217,12,0,1,High Risk
+11000,39,Self-Employed,High School,277678,58851,2,9.7,5,1.4,836862,60,1,1,High Risk
+11001,34,Employed,High School,204826,56311,0,14.4,5,4.4,394382,24,1,1,Low Risk
+11002,46,Self-Employed,PhD,61233,113113,0,9.1,4,2.2,602947,48,1,1,High Risk
+11003,24,Unemployed,High School,212780,106331,1,2.7,3,4.9,649629,24,1,1,High Risk
+11004,45,Employed,Bachelor,239522,66867,4,14.3,5,1.5,538446,36,1,0,High Risk
+11005,65,Employed,Bachelor,121311,89780,5,18.3,1,4.8,84236,36,0,1,Low Risk
+11006,62,Employed,Bachelor,49409,58196,2,13.2,2,1.4,86067,60,1,1,High Risk
+11007,45,Self-Employed,Bachelor,261231,74705,3,15.6,3,1.9,693098,36,0,1,Low Risk
+11008,38,Employed,High School,44709,58894,1,7.5,0,1.2,19879,60,1,1,Low Risk
+11009,60,Self-Employed,Bachelor,124321,88640,7,4.1,4,3.8,146615,48,1,0,High Risk
+11010,28,Self-Employed,Bachelor,15363,108437,2,13.0,3,4.4,646572,60,1,1,High Risk
+11011,59,Employed,Bachelor,287502,15591,4,6.9,5,2.7,188996,36,1,1,Low Risk
+11012,60,Unemployed,High School,60689,98247,2,17.3,2,4.7,445564,12,0,1,Low Risk
+11013,34,Employed,Bachelor,279080,49893,7,2.9,2,3.4,356261,60,1,1,Low Risk
+11014,52,Employed,High School,106074,1727,6,9.0,2,3.5,964183,24,1,0,Low Risk
+11015,58,Self-Employed,Bachelor,190037,22359,0,8.2,3,4.4,220190,12,1,1,Low Risk
+11016,53,Self-Employed,High School,223606,44822,6,18.8,2,2.2,578176,60,1,0,High Risk
+11017,43,Employed,High School,15882,102547,0,3.5,5,2.4,826708,24,1,1,High Risk
+11018,35,Unemployed,Master,269822,116336,1,0.7,3,4.6,539087,12,1,1,High Risk
+11019,53,Unemployed,Bachelor,140865,104399,7,5.1,2,4.6,493843,60,1,1,High Risk
+11020,45,Employed,Master,138745,113113,4,16.5,0,4.9,759130,48,0,1,Low Risk
+11021,37,Unemployed,PhD,43885,89534,4,4.6,0,4.6,384673,24,1,1,Low Risk
+11022,53,Employed,Bachelor,186128,11929,2,5.2,1,1.5,921145,48,1,1,Low Risk
+11023,22,Employed,High School,206313,61091,1,3.0,2,4.3,523264,36,1,1,Low Risk
+11024,34,Employed,Bachelor,36584,81378,4,14.5,2,2.6,100141,60,1,1,Low Risk
+11025,60,Unemployed,Master,285665,24519,5,1.8,3,5.0,988062,60,1,1,High Risk
+11026,60,Self-Employed,Bachelor,196089,18393,5,7.0,3,2.9,387157,24,0,0,High Risk
+11027,59,Employed,High School,44063,35318,6,6.0,2,3.2,964038,60,0,0,High Risk
+11028,26,Employed,Bachelor,85268,75531,0,11.3,1,3.1,303812,36,0,1,Low Risk
+11029,26,Self-Employed,Master,271306,95192,2,14.7,2,2.3,145183,60,1,0,Low Risk
+11030,23,Employed,Master,141218,48934,3,10.9,5,1.3,427902,12,1,1,High Risk
+11031,27,Unemployed,High School,239126,106796,7,18.7,3,4.6,213623,48,1,0,High Risk
+11032,28,Self-Employed,Bachelor,185635,111805,0,19.1,2,4.2,868824,36,0,1,Low Risk
+11033,62,Employed,High School,185824,82103,1,7.5,3,1.6,26490,36,1,1,High Risk
+11034,35,Unemployed,High School,241305,29840,4,15.7,2,4.1,438410,48,1,0,High Risk
+11035,49,Employed,Master,91411,119089,0,14.9,4,3.5,942001,48,1,1,Low Risk
+11036,53,Unemployed,High School,124876,90367,3,17.9,3,2.6,784426,36,1,1,High Risk
+11037,50,Self-Employed,Bachelor,213153,14265,3,9.2,1,2.0,456732,48,1,1,Low Risk
+11038,59,Self-Employed,High School,175212,6424,5,10.8,4,4.4,651507,24,1,1,High Risk
+11039,47,Employed,Master,155399,21625,1,8.6,5,3.8,491946,48,1,1,Low Risk
+11040,56,Unemployed,Master,38331,80622,0,17.1,2,3.2,578392,12,1,0,High Risk
+11041,49,Employed,Bachelor,38004,30187,2,5.0,5,3.4,539604,12,0,0,High Risk
+11042,58,Employed,Master,253441,36929,0,5.2,3,1.4,48130,24,1,0,Low Risk
+11043,53,Employed,High School,204167,62892,5,7.8,4,2.9,473445,48,1,1,High Risk
+11044,57,Employed,Bachelor,104044,21539,6,5.0,5,1.8,379438,12,0,1,High Risk
+11045,47,Employed,Bachelor,286189,57630,3,11.4,1,1.8,826386,60,1,0,Low Risk
+11046,53,Self-Employed,High School,297260,91639,1,3.1,3,3.6,385581,48,1,1,High Risk
+11047,24,Unemployed,Bachelor,33667,94410,1,6.7,4,4.6,949156,24,0,1,High Risk
+11048,42,Employed,Master,89205,10215,2,18.3,5,2.6,155250,48,1,1,Low Risk
+11049,22,Self-Employed,High School,42302,40385,1,8.5,4,1.8,192235,36,1,1,High Risk
+11050,30,Employed,Bachelor,177007,88580,5,15.1,4,3.6,942255,36,1,1,High Risk
+11051,25,Unemployed,High School,87534,78462,5,2.7,5,4.5,993465,12,0,1,High Risk
+11052,30,Self-Employed,High School,240414,114396,5,5.3,0,4.0,930548,36,1,1,Low Risk
+11053,53,Employed,Master,177696,98037,1,16.2,2,4.5,597453,24,0,1,Low Risk
+11054,58,Self-Employed,Bachelor,28440,96310,1,15.4,3,3.1,414696,12,1,1,Low Risk
+11055,33,Employed,Bachelor,285012,26008,5,8.0,3,4.0,730799,24,0,1,Low Risk
+11056,51,Employed,Master,176323,49928,1,19.1,3,1.6,447090,24,1,1,Low Risk
+11057,56,Self-Employed,High School,99523,84096,7,18.3,4,2.4,769893,36,0,1,High Risk
+11058,65,Employed,Bachelor,184801,90876,1,19.3,5,2.6,601063,36,0,1,High Risk
+11059,44,Employed,Bachelor,30734,25976,7,8.8,2,3.0,409782,24,0,1,High Risk
+11060,35,Employed,Bachelor,188501,114942,3,4.4,1,4.7,357455,36,1,1,Low Risk
+11061,49,Self-Employed,PhD,187409,28626,0,12.7,3,4.5,505733,36,1,1,Low Risk
+11062,28,Employed,Master,285577,99256,4,13.9,5,1.5,587437,36,0,1,High Risk
+11063,25,Employed,Bachelor,155183,101537,7,2.9,2,1.7,930510,48,1,1,High Risk
+11064,49,Self-Employed,Master,118986,60789,7,15.8,2,2.4,344705,24,1,1,Low Risk
+11065,24,Self-Employed,High School,128783,5700,1,0.9,0,2.2,422639,60,1,1,Low Risk
+11066,32,Employed,High School,226655,110331,4,9.9,5,3.5,624998,24,0,1,High Risk
+11067,65,Employed,High School,298895,64645,6,7.0,3,4.6,102199,12,1,1,Low Risk
+11068,22,Employed,Bachelor,162525,74396,4,14.9,4,4.8,175024,36,1,1,Low Risk
+11069,47,Employed,Bachelor,231916,8526,3,6.6,2,3.6,561614,36,1,1,Low Risk
+11070,51,Employed,Bachelor,176149,104863,7,16.6,2,4.4,913704,60,1,0,Low Risk
+11071,56,Self-Employed,Master,254654,40500,1,12.1,1,3.1,41139,12,0,1,Low Risk
+11072,56,Self-Employed,Bachelor,204216,69049,5,16.0,0,1.8,727463,48,1,1,Low Risk
+11073,46,Self-Employed,Bachelor,192169,74366,4,19.8,2,3.1,515950,24,0,1,Low Risk
+11074,63,Employed,High School,148851,81317,1,13.7,2,3.2,201929,48,1,1,Low Risk
+11075,47,Self-Employed,High School,146827,60117,2,19.7,4,4.0,345782,12,0,1,Low Risk
+11076,25,Employed,Bachelor,66482,57096,6,1.1,4,1.9,344796,60,1,1,High Risk
+11077,40,Unemployed,Bachelor,137989,8910,5,7.1,1,2.5,547225,12,0,1,High Risk
+11078,31,Self-Employed,Master,291393,82383,2,2.6,5,2.5,268006,60,1,1,High Risk
+11079,30,Employed,High School,259255,72185,2,5.6,1,4.8,826593,48,1,1,Low Risk
+11080,60,Self-Employed,High School,125361,51248,4,16.9,1,2.8,931887,48,1,1,Low Risk
+11081,58,Employed,Bachelor,296366,75656,2,1.1,4,4.0,882288,12,0,1,High Risk
+11082,26,Self-Employed,High School,56139,2951,3,10.6,5,4.0,519603,12,1,1,High Risk
+11083,28,Employed,High School,129919,66212,3,11.6,4,2.1,342187,36,1,1,High Risk
+11084,43,Employed,Master,262677,76701,4,11.4,0,3.3,680095,60,1,1,Low Risk
+11085,46,Unemployed,High School,240756,80888,1,9.8,3,4.6,69919,36,0,1,Low Risk
+11086,63,Employed,Bachelor,154718,76282,0,15.9,3,2.9,354199,24,1,1,Low Risk
+11087,32,Self-Employed,Bachelor,159615,110274,1,3.1,0,4.8,470777,24,1,1,Low Risk
+11088,46,Employed,High School,240568,95533,1,6.6,3,1.9,881887,12,1,1,High Risk
+11089,33,Self-Employed,Bachelor,168857,42954,1,12.5,5,1.3,440838,48,0,0,High Risk
+11090,60,Self-Employed,Master,38777,90719,1,14.0,4,4.6,310279,24,0,1,High Risk
+11091,38,Employed,Bachelor,72939,9804,5,8.4,3,4.4,701018,24,0,1,Low Risk
+11092,45,Employed,Master,38548,93705,0,17.6,5,5.0,881109,36,1,1,High Risk
+11093,53,Employed,High School,140549,1595,5,8.6,4,3.7,301840,36,1,1,High Risk
+11094,60,Employed,Master,152799,30592,2,8.4,5,4.7,144845,24,1,0,High Risk
+11095,63,Employed,High School,256532,41643,6,1.2,0,4.3,34956,12,1,1,Low Risk
+11096,32,Self-Employed,Bachelor,196789,63665,1,11.2,1,4.4,812251,36,1,1,Low Risk
+11097,64,Unemployed,Bachelor,162764,21823,6,14.3,0,3.3,273672,24,1,1,Low Risk
+11098,56,Unemployed,Master,46625,6972,3,2.7,3,2.5,399925,48,1,1,High Risk
+11099,24,Self-Employed,Bachelor,129881,16882,4,6.5,4,4.7,96491,36,1,1,Low Risk
+11100,25,Self-Employed,High School,292721,67394,4,15.7,5,2.7,54588,24,1,1,High Risk
+11101,57,Self-Employed,High School,126776,72055,5,7.6,3,3.2,211657,60,1,1,High Risk
+11102,28,Employed,Master,248996,24769,5,5.2,3,2.8,109152,36,1,1,Low Risk
+11103,62,Unemployed,Bachelor,272831,26020,3,13.6,1,3.3,662160,60,1,1,Low Risk
+11104,48,Self-Employed,Master,227803,43748,1,4.3,3,2.9,423727,36,1,1,Low Risk
+11105,51,Employed,High School,173761,103621,6,18.0,1,1.2,806551,36,0,0,High Risk
+11106,29,Employed,Bachelor,157226,86374,7,2.6,4,4.5,348037,60,1,1,High Risk
+11107,49,Employed,High School,36341,45912,6,14.3,4,2.8,26167,12,0,1,High Risk
+11108,34,Employed,PhD,220753,13879,0,10.2,5,3.4,721863,24,0,1,High Risk
+11109,60,Unemployed,Bachelor,264141,34798,2,17.5,1,1.6,120782,12,1,1,Low Risk
+11110,61,Employed,Master,214488,108791,4,3.0,0,1.0,491005,12,1,1,Low Risk
+11111,42,Employed,Bachelor,271139,90826,2,13.7,4,2.0,140775,24,1,1,High Risk
+11112,31,Unemployed,Bachelor,93840,47073,0,11.7,5,3.8,44889,48,1,1,High Risk
+11113,43,Employed,Bachelor,180767,76791,5,9.9,0,1.4,317822,12,0,1,Low Risk
+11114,21,Employed,Bachelor,176297,67983,6,10.1,4,4.6,236406,12,0,1,High Risk
+11115,57,Employed,Master,64156,44005,4,14.6,4,1.9,594550,12,1,1,High Risk
+11116,41,Self-Employed,Master,223281,95731,2,18.8,5,1.8,145753,48,1,1,High Risk
+11117,46,Unemployed,Master,102453,3850,7,2.3,5,1.7,614579,36,0,1,High Risk
+11118,56,Employed,Master,173901,29400,5,0.9,2,1.1,600296,60,1,0,High Risk
+11119,43,Unemployed,Bachelor,40938,12953,0,16.2,3,4.1,781835,60,1,1,High Risk
+11120,21,Employed,Bachelor,74164,107410,7,2.6,3,4.5,239489,48,1,1,High Risk
+11121,60,Unemployed,PhD,214271,24535,2,19.7,0,3.5,416906,12,1,1,Low Risk
+11122,35,Self-Employed,High School,75282,76536,7,12.6,3,1.8,822344,60,1,1,High Risk
+11123,41,Self-Employed,Master,280470,76039,6,13.2,0,2.1,278617,48,1,1,Low Risk
+11124,29,Employed,Master,173666,82029,1,4.4,4,2.9,706658,24,1,1,High Risk
+11125,29,Unemployed,Bachelor,130819,5055,7,5.2,2,4.8,421885,60,0,1,High Risk
+11126,30,Self-Employed,PhD,281907,39170,5,13.4,2,2.0,895932,24,1,1,Low Risk
+11127,46,Employed,Bachelor,156900,98944,0,18.2,4,3.9,948447,12,1,1,Low Risk
+11128,61,Self-Employed,Bachelor,288365,108585,2,19.7,5,2.8,835217,60,0,1,High Risk
+11129,55,Employed,High School,28569,100976,6,4.4,1,2.2,635244,48,0,1,High Risk
+11130,45,Unemployed,Bachelor,242966,29251,1,3.1,1,2.8,204499,36,1,1,Low Risk
+11131,46,Employed,Bachelor,52860,5532,1,1.6,3,1.3,533764,60,1,1,High Risk
+11132,31,Self-Employed,Bachelor,217630,5924,0,17.4,5,4.2,203073,60,1,1,Low Risk
+11133,58,Employed,Master,159587,49037,3,6.2,0,2.0,727084,60,0,1,Low Risk
+11134,22,Employed,Master,86695,79082,6,0.5,2,3.9,391150,60,1,1,High Risk
+11135,27,Employed,High School,268078,93115,6,4.9,3,1.3,282976,48,1,0,High Risk
+11136,38,Employed,Bachelor,257599,72621,4,7.1,4,4.8,932889,48,0,1,High Risk
+11137,47,Employed,Master,170976,78926,0,19.8,5,1.8,499114,36,1,0,High Risk
+11138,54,Employed,High School,206007,79816,1,10.7,2,4.5,155780,48,0,1,Low Risk
+11139,47,Employed,High School,20636,90654,1,4.5,0,4.2,461816,48,0,1,Low Risk
+11140,37,Employed,High School,276578,71400,7,7.0,0,4.9,950942,12,1,0,Low Risk
+11141,63,Employed,Bachelor,298816,108620,0,6.9,1,2.9,354891,12,1,1,Low Risk
+11142,64,Self-Employed,High School,282956,100525,3,0.9,3,3.9,876539,24,0,1,High Risk
+11143,44,Employed,PhD,242693,102164,4,3.1,4,2.5,725422,36,1,1,High Risk
+11144,45,Unemployed,Bachelor,15654,93385,2,14.1,2,1.7,337572,12,1,0,High Risk
+11145,27,Unemployed,Bachelor,69633,94102,0,2.8,0,2.8,883275,36,1,1,High Risk
+11146,26,Self-Employed,High School,32143,11702,4,5.0,2,1.7,21002,36,1,0,High Risk
+11147,44,Employed,Bachelor,70934,107732,6,7.3,4,4.9,963657,60,1,1,High Risk
+11148,53,Unemployed,Bachelor,118463,16385,4,15.3,2,1.4,949944,36,0,1,High Risk
+11149,49,Employed,Master,140851,10336,7,11.9,3,3.4,863933,60,1,1,High Risk
+11150,63,Employed,Master,44087,66421,5,13.9,1,3.5,42556,24,0,0,Low Risk
+11151,42,Employed,Bachelor,157690,32225,1,11.6,2,3.2,602251,24,1,1,Low Risk
+11152,46,Self-Employed,Master,285590,37021,7,13.8,5,3.6,504361,24,1,1,High Risk
+11153,48,Employed,Master,173272,4782,2,0.6,1,1.5,231746,60,1,1,Low Risk
+11154,41,Employed,Master,241179,89877,0,18.7,4,3.2,16563,60,0,0,Low Risk
+11155,27,Unemployed,High School,207537,116454,7,2.7,1,2.1,220995,24,1,1,High Risk
+11156,37,Unemployed,High School,232508,118369,1,8.4,2,4.8,802272,60,1,1,High Risk
+11157,40,Employed,High School,133422,90630,5,15.5,2,4.0,549442,48,1,1,Low Risk
+11158,61,Employed,Bachelor,234631,50111,7,9.0,5,4.9,558482,48,1,1,High Risk
+11159,40,Self-Employed,Bachelor,54148,90402,5,19.0,0,1.2,730380,60,1,1,Low Risk
+11160,42,Employed,Bachelor,166770,85585,7,9.6,5,2.1,712221,60,1,1,High Risk
+11161,48,Employed,Master,202535,43719,1,17.6,2,1.8,163520,12,1,1,Low Risk
+11162,60,Employed,Master,93012,97528,3,16.3,1,1.0,499676,12,1,1,Low Risk
+11163,27,Unemployed,Master,71116,50037,4,19.6,5,2.0,819960,36,1,1,High Risk
+11164,21,Self-Employed,Bachelor,159233,81103,0,18.6,5,3.7,432618,36,1,1,High Risk
+11165,52,Self-Employed,Bachelor,47152,110987,0,18.0,0,1.9,276496,36,1,1,Low Risk
+11166,33,Unemployed,Bachelor,121379,4513,0,14.8,2,3.0,272328,24,1,1,Low Risk
+11167,50,Employed,High School,241905,116183,1,7.7,2,4.6,937888,48,1,0,Low Risk
+11168,43,Employed,High School,35836,14335,6,2.6,4,3.8,286463,24,1,1,High Risk
+11169,39,Employed,Bachelor,236439,45140,3,13.9,0,2.6,130497,60,1,1,Low Risk
+11170,52,Employed,Bachelor,201720,105126,2,19.6,4,2.5,161521,12,1,1,Low Risk
+11171,50,Employed,Master,172403,81373,5,14.7,4,2.8,328477,60,1,1,High Risk
+11172,49,Self-Employed,High School,156835,78658,1,18.6,4,1.7,837637,60,1,1,High Risk
+11173,65,Self-Employed,Master,108109,35840,6,16.2,3,3.5,544714,12,1,1,Low Risk
+11174,49,Unemployed,Bachelor,165259,32007,2,3.7,4,2.5,803936,60,1,1,High Risk
+11175,50,Employed,Bachelor,158029,57947,5,5.4,5,4.4,459794,36,0,0,High Risk
+11176,36,Self-Employed,Bachelor,97018,107833,5,7.2,1,4.0,723569,12,1,1,Low Risk
+11177,60,Self-Employed,Bachelor,138076,119637,3,3.8,5,3.4,126775,60,1,1,High Risk
+11178,39,Employed,Bachelor,173177,94220,4,11.8,5,2.5,43368,36,1,1,High Risk
+11179,38,Self-Employed,Bachelor,194425,27393,0,19.5,2,1.8,776913,36,0,1,Low Risk
+11180,21,Employed,High School,230657,58480,7,15.3,3,4.1,113841,48,1,1,Low Risk
+11181,34,Employed,High School,17637,118243,2,8.8,4,2.9,979689,36,1,1,High Risk
+11182,22,Employed,Bachelor,252989,89290,1,0.6,2,1.9,500846,24,0,1,High Risk
+11183,48,Employed,Master,247259,87335,2,6.6,0,1.8,388888,12,0,1,Low Risk
+11184,50,Employed,Bachelor,97464,105263,4,10.8,0,1.7,221293,12,1,0,Low Risk
+11185,58,Self-Employed,Master,26831,10107,0,6.8,2,4.1,790371,12,1,1,Low Risk
+11186,24,Unemployed,Bachelor,128768,6993,2,2.7,1,1.9,18724,60,0,1,High Risk
+11187,21,Self-Employed,Master,261983,97341,4,9.1,2,3.1,408300,60,1,1,High Risk
+11188,28,Self-Employed,Master,119824,94650,1,5.4,2,2.8,700170,24,1,0,High Risk
+11189,49,Employed,Bachelor,103741,104325,3,18.2,3,3.3,878729,36,1,1,Low Risk
+11190,59,Self-Employed,Bachelor,33830,118595,6,2.5,0,4.5,921531,60,1,1,High Risk
+11191,23,Employed,Master,84202,53066,5,1.5,0,4.5,88872,36,1,1,Low Risk
+11192,52,Employed,Bachelor,232394,112850,1,0.6,4,2.8,948376,36,1,1,High Risk
+11193,30,Employed,Bachelor,217123,43942,0,6.9,5,1.1,604621,60,1,1,High Risk
+11194,30,Employed,High School,172699,17138,5,13.4,2,2.7,734203,60,1,1,Low Risk
+11195,39,Employed,Master,292342,119558,6,14.7,2,3.4,515241,24,1,1,Low Risk
+11196,54,Employed,Master,121471,45527,1,9.3,1,3.2,239176,48,1,1,Low Risk
+11197,53,Employed,High School,251824,10190,7,13.8,0,3.6,536884,12,1,1,Low Risk
+11198,43,Unemployed,Bachelor,34403,93259,1,7.5,1,1.6,813599,60,0,1,High Risk
+11199,48,Employed,Bachelor,18681,79422,1,13.5,3,3.6,97844,60,0,1,Low Risk
+11200,52,Employed,High School,130260,56698,7,1.3,4,1.7,782427,36,1,1,High Risk
+11201,27,Employed,PhD,188364,83315,1,8.1,1,4.0,99751,48,1,1,Low Risk
+11202,49,Self-Employed,High School,120386,94710,5,15.9,0,2.4,139817,60,1,1,Low Risk
+11203,28,Employed,High School,248378,30086,0,16.2,3,3.8,480547,48,0,1,Low Risk
+11204,21,Employed,Bachelor,108246,18322,6,14.5,2,1.2,614808,12,0,1,Low Risk
+11205,23,Employed,Master,110864,109132,4,4.5,3,2.6,68326,36,1,1,High Risk
+11206,44,Employed,High School,223886,101814,2,5.3,5,3.8,611958,24,1,1,High Risk
+11207,43,Employed,Bachelor,285561,84569,7,19.9,1,1.9,533292,12,1,1,Low Risk
+11208,28,Employed,Bachelor,180837,86610,3,2.5,0,4.2,676142,48,0,0,Low Risk
+11209,57,Employed,High School,260160,4435,7,4.0,1,3.5,183074,48,1,1,Low Risk
+11210,23,Employed,High School,202646,102505,6,3.0,2,3.4,752547,12,1,0,High Risk
+11211,53,Employed,Bachelor,274278,54331,2,6.9,2,2.4,34022,48,1,1,Low Risk
+11212,48,Self-Employed,Bachelor,271681,29942,2,4.6,0,2.9,94458,24,1,1,Low Risk
+11213,28,Employed,Master,186635,60635,3,10.2,5,3.4,942122,24,1,1,High Risk
+11214,54,Employed,Master,26332,30059,6,9.8,4,2.9,158317,48,1,0,High Risk
+11215,55,Employed,PhD,269817,58557,5,18.1,3,3.8,618084,48,1,1,Low Risk
+11216,52,Unemployed,Bachelor,296321,114457,0,1.2,3,2.7,413243,24,1,1,High Risk
+11217,44,Employed,PhD,235326,53389,3,6.7,2,1.8,417202,48,0,1,Low Risk
+11218,34,Employed,Bachelor,214519,54014,0,12.1,1,1.9,644992,60,0,1,Low Risk
+11219,52,Self-Employed,Bachelor,276849,33826,5,12.3,1,1.0,406742,36,1,0,Low Risk
+11220,63,Employed,High School,95730,31297,2,9.9,5,2.2,757157,60,0,1,High Risk
+11221,36,Employed,High School,252474,44890,0,16.4,4,4.0,316505,48,0,1,Low Risk
+11222,24,Employed,Bachelor,298817,22322,5,1.7,1,4.2,533518,48,1,1,Low Risk
+11223,57,Unemployed,Bachelor,55870,36739,5,16.4,3,1.8,994662,36,1,1,High Risk
+11224,41,Employed,High School,268017,10719,4,10.1,1,4.8,834718,48,1,1,Low Risk
+11225,34,Self-Employed,Bachelor,142536,80553,3,3.1,4,3.0,39533,36,1,1,High Risk
+11226,51,Unemployed,Bachelor,299965,9314,4,17.8,3,4.7,242033,24,1,1,Low Risk
+11227,38,Employed,Bachelor,40494,94831,7,13.2,1,3.8,159388,36,1,1,Low Risk
+11228,27,Employed,Bachelor,114477,76164,2,3.7,3,3.9,149771,36,1,1,High Risk
+11229,30,Employed,Master,220232,108658,3,1.2,2,1.3,744851,60,0,1,High Risk
+11230,27,Employed,Master,295790,78028,2,3.3,2,1.9,661729,48,0,1,Low Risk
+11231,53,Employed,Bachelor,138777,37113,4,12.4,5,1.0,893511,24,1,1,High Risk
+11232,43,Unemployed,Bachelor,92360,118174,6,4.0,2,3.9,110960,12,0,1,High Risk
+11233,41,Self-Employed,Bachelor,148501,16357,5,4.9,1,2.4,592753,36,0,1,Low Risk
+11234,39,Self-Employed,Master,75654,99865,2,1.0,4,4.1,157745,12,0,1,High Risk
+11235,39,Employed,Bachelor,134975,21365,3,14.6,3,2.4,295539,48,1,1,Low Risk
+11236,56,Self-Employed,High School,214215,40029,7,16.3,0,4.3,114162,36,1,1,Low Risk
+11237,49,Unemployed,High School,117326,2737,3,16.0,2,1.5,140704,12,1,1,High Risk
+11238,38,Self-Employed,Bachelor,92527,75632,2,3.0,2,1.7,164779,60,0,1,High Risk
+11239,22,Employed,Bachelor,181991,86474,3,18.1,0,2.4,487965,12,1,1,Low Risk
+11240,21,Self-Employed,Master,111952,79218,7,13.6,0,2.6,85937,60,0,1,Low Risk
+11241,25,Employed,High School,161895,28499,5,18.0,1,2.4,663935,24,1,1,Low Risk
+11242,40,Employed,Bachelor,61015,111027,6,9.2,3,4.1,654938,48,1,1,High Risk
+11243,31,Employed,Master,117877,111402,5,9.0,2,1.4,402888,12,1,0,High Risk
+11244,62,Self-Employed,Master,292483,108430,3,15.8,4,2.4,752092,36,1,1,High Risk
+11245,22,Self-Employed,Bachelor,149563,47157,7,2.3,1,4.3,721776,48,1,1,Low Risk
+11246,23,Employed,Bachelor,112493,57247,7,10.7,1,1.3,887944,12,1,1,High Risk
+11247,43,Employed,Bachelor,161800,42034,2,16.8,4,4.8,149830,36,1,1,Low Risk
+11248,32,Employed,Master,206480,1294,4,16.7,4,4.9,601297,36,1,1,Low Risk
+11249,40,Employed,High School,136648,99072,3,19.1,5,1.4,416497,36,1,1,High Risk
+11250,25,Employed,Master,163790,25596,3,14.1,4,2.2,269188,36,1,1,High Risk
+11251,57,Employed,Bachelor,102508,99185,3,4.6,0,2.5,255340,12,1,1,Low Risk
+11252,58,Self-Employed,Bachelor,229839,12434,3,0.9,2,4.1,42548,24,1,1,Low Risk
+11253,50,Employed,High School,289270,59382,2,9.8,5,3.4,552659,60,0,1,High Risk
+11254,29,Employed,Bachelor,79926,39098,4,10.5,0,3.6,378121,60,1,1,Low Risk
+11255,54,Employed,Bachelor,55633,5655,4,5.2,5,4.0,685004,60,1,1,High Risk
+11256,64,Unemployed,High School,223726,84029,0,2.9,2,1.5,234731,24,1,1,High Risk
+11257,55,Self-Employed,Bachelor,18317,47228,3,11.9,5,4.3,164946,36,0,1,High Risk
+11258,42,Self-Employed,PhD,207718,4771,3,15.4,0,3.8,491875,36,1,1,Low Risk
+11259,64,Employed,Bachelor,202035,75099,0,19.9,3,3.3,548569,48,1,1,Low Risk
+11260,44,Employed,Master,195388,57799,4,15.3,2,4.6,996291,60,1,1,Low Risk
+11261,37,Employed,High School,292648,63257,7,16.0,1,3.8,425505,60,1,1,Low Risk
+11262,30,Self-Employed,Bachelor,214665,18558,7,12.5,2,1.8,261060,36,1,0,High Risk
+11263,50,Unemployed,High School,227369,100468,1,19.7,2,2.7,408270,60,1,1,High Risk
+11264,43,Self-Employed,Bachelor,70501,59436,5,13.0,2,3.0,110020,36,0,1,Low Risk
+11265,52,Unemployed,Master,199381,108779,1,17.3,3,1.2,641796,36,1,1,High Risk
+11266,37,Self-Employed,Bachelor,42043,93103,4,18.9,0,4.8,515626,36,1,1,Low Risk
+11267,37,Employed,High School,48635,33376,6,18.6,1,1.5,76846,12,1,1,Low Risk
+11268,34,Unemployed,Bachelor,225387,88458,3,7.9,0,3.8,366826,12,1,1,Low Risk
+11269,29,Employed,Bachelor,95691,78924,1,2.0,5,3.0,452985,12,1,1,High Risk
+11270,60,Employed,Bachelor,292510,30332,2,3.9,5,1.1,301456,12,1,1,High Risk
+11271,22,Employed,Master,108944,47737,7,1.7,5,4.7,499733,24,1,1,High Risk
+11272,65,Employed,Master,218179,90031,2,2.6,0,4.4,386330,48,1,1,Low Risk
+11273,45,Employed,Bachelor,54236,74970,0,4.1,4,3.1,800689,48,1,1,High Risk
+11274,59,Employed,Bachelor,281294,52952,4,7.2,3,1.9,419062,36,1,1,High Risk
+11275,29,Employed,Bachelor,296567,21991,4,11.1,4,1.5,425699,60,1,1,High Risk
+11276,42,Employed,High School,19137,28472,1,14.4,5,2.5,560846,12,0,1,High Risk
+11277,63,Employed,Bachelor,44992,60946,3,4.6,3,2.0,577476,48,1,1,High Risk
+11278,24,Employed,Bachelor,130140,106566,4,13.6,0,3.0,678372,48,1,0,Low Risk
+11279,46,Employed,Bachelor,190993,27849,1,14.2,5,4.9,567524,12,0,1,Low Risk
+11280,49,Employed,Bachelor,136225,2541,1,11.4,0,3.3,507425,24,1,1,Low Risk
+11281,65,Self-Employed,High School,225047,3765,5,18.1,3,4.6,579364,24,1,1,Low Risk
+11282,54,Self-Employed,Bachelor,34122,44074,5,2.7,0,3.6,320546,48,1,1,Low Risk
+11283,43,Self-Employed,High School,78879,103795,4,4.0,0,2.9,366611,24,1,1,High Risk
+11284,57,Self-Employed,High School,73560,30283,1,8.9,1,4.4,173148,12,1,0,Low Risk
+11285,31,Employed,Master,214757,102387,0,3.0,4,2.9,614625,48,1,0,High Risk
+11286,26,Self-Employed,High School,252268,101161,0,11.5,4,4.5,125827,12,1,1,Low Risk
+11287,38,Employed,Bachelor,278312,1769,5,8.3,4,2.2,478380,24,1,1,Low Risk
+11288,41,Employed,High School,181969,18806,4,6.0,2,1.5,608552,12,1,1,High Risk
+11289,62,Self-Employed,Master,161104,91518,7,3.8,1,4.4,813767,24,1,1,High Risk
+11290,56,Employed,Bachelor,280660,3972,3,7.0,5,3.3,788060,24,1,1,High Risk
+11291,61,Self-Employed,High School,165823,19256,6,12.4,5,4.6,578061,12,0,1,High Risk
+11292,58,Self-Employed,Bachelor,45373,104903,7,11.7,5,4.8,717518,24,0,1,High Risk
+11293,54,Unemployed,Master,137026,19653,0,3.7,4,1.2,300714,36,1,0,High Risk
+11294,37,Unemployed,PhD,45270,104579,0,2.9,4,3.0,97995,12,1,0,High Risk
+11295,57,Employed,High School,247931,87669,7,1.0,1,2.5,50658,36,1,1,Low Risk
+11296,45,Employed,Master,210889,40339,5,0.7,0,3.5,462400,12,1,1,Low Risk
+11297,58,Employed,Master,80184,26757,5,17.7,4,4.2,392784,24,0,1,Low Risk
+11298,32,Employed,Master,225765,104376,4,1.4,5,2.1,869045,24,0,1,High Risk
+11299,43,Self-Employed,Bachelor,52879,43399,5,14.8,0,3.2,330338,48,1,1,Low Risk
+11300,62,Self-Employed,Bachelor,18626,45013,2,17.5,4,3.8,208579,48,1,1,Low Risk
+11301,42,Self-Employed,Bachelor,100936,98605,6,2.4,3,1.5,384016,36,1,1,High Risk
+11302,41,Employed,Master,249873,15706,7,9.0,2,4.3,961463,24,1,0,Low Risk
+11303,47,Employed,Bachelor,96515,39231,7,19.3,4,3.4,456288,48,0,1,High Risk
+11304,51,Employed,Bachelor,223137,28909,1,16.8,3,4.8,710948,24,1,1,Low Risk
+11305,26,Employed,Bachelor,70390,106754,0,10.0,1,2.4,968037,12,1,1,Low Risk
+11306,47,Unemployed,Master,238032,77631,7,15.4,3,1.4,904990,48,1,0,High Risk
+11307,60,Employed,Master,69144,58572,2,16.8,1,3.0,261953,36,1,0,Low Risk
+11308,54,Employed,High School,159454,86879,7,7.3,4,1.3,78582,48,1,1,High Risk
+11309,32,Employed,Master,19025,64767,3,17.9,1,4.9,727103,24,1,1,Low Risk
+11310,65,Self-Employed,Bachelor,269043,27469,2,9.7,3,1.2,447734,60,0,1,High Risk
+11311,27,Self-Employed,Master,133910,2313,4,10.8,2,4.0,153775,60,0,1,Low Risk
+11312,30,Employed,Bachelor,111055,8847,3,20.0,0,3.1,583744,24,1,1,Low Risk
+11313,65,Employed,Bachelor,220782,51222,3,16.9,0,2.5,589779,12,1,1,Low Risk
+11314,37,Employed,Master,298539,75702,7,7.6,2,1.3,280187,48,0,1,High Risk
+11315,46,Employed,Bachelor,287869,10930,5,0.7,5,3.5,375356,60,1,1,High Risk
+11316,41,Self-Employed,Master,48461,4285,7,12.7,0,3.3,528943,12,1,1,Low Risk
+11317,48,Self-Employed,Bachelor,273072,36863,2,14.2,4,2.1,774291,24,1,1,High Risk
+11318,22,Employed,Bachelor,56115,17704,4,13.2,5,4.6,340484,12,0,1,High Risk
+11319,63,Employed,Bachelor,125084,19705,0,19.4,4,2.2,151248,24,1,1,Low Risk
+11320,21,Unemployed,Bachelor,174762,1555,6,17.3,3,2.8,407152,48,1,1,High Risk
+11321,56,Employed,Bachelor,278551,22323,5,9.3,3,3.2,565462,12,0,1,Low Risk
+11322,46,Self-Employed,High School,88568,71968,2,1.7,5,1.4,354776,48,1,1,High Risk
+11323,49,Employed,Bachelor,73560,67922,0,9.8,5,4.7,360912,12,1,1,High Risk
+11324,41,Employed,High School,163866,54915,2,13.9,5,2.5,922207,24,1,1,High Risk
+11325,31,Employed,PhD,165953,110543,5,12.4,5,1.3,642465,24,1,1,High Risk
+11326,60,Employed,PhD,232364,11619,0,11.0,1,2.5,560197,12,1,0,Low Risk
+11327,31,Unemployed,Bachelor,251770,73390,5,9.6,5,3.4,54158,24,1,1,High Risk
+11328,56,Employed,Master,241024,109500,2,6.2,5,3.1,673726,36,1,1,High Risk
+11329,59,Employed,Bachelor,195775,115337,3,5.9,3,3.8,226197,36,1,1,Low Risk
+11330,60,Employed,Bachelor,106288,60274,6,10.3,4,1.2,719697,48,1,1,High Risk
+11331,55,Employed,Master,264836,74173,1,3.6,3,2.1,920728,36,0,1,Low Risk
+11332,54,Employed,Master,29390,22225,6,7.1,0,4.3,855763,36,1,1,Low Risk
+11333,44,Employed,Bachelor,233547,112266,3,6.8,1,1.3,795772,60,0,1,Low Risk
+11334,42,Self-Employed,Master,42307,27739,5,11.9,1,4.4,778278,60,0,1,Low Risk
+11335,25,Employed,Bachelor,242436,48708,6,1.8,4,1.4,989701,60,1,0,High Risk
+11336,53,Employed,PhD,240121,54019,5,16.7,5,4.3,737402,60,1,1,High Risk
+11337,56,Unemployed,High School,266063,77154,5,11.5,3,2.4,454140,24,0,1,High Risk
+11338,40,Employed,Bachelor,39502,103097,0,13.6,0,3.4,432058,48,1,0,Low Risk
+11339,39,Unemployed,Bachelor,37486,8373,4,14.2,3,1.6,682818,48,1,1,High Risk
+11340,55,Employed,Bachelor,184330,36281,5,6.2,5,1.3,97367,36,1,1,High Risk
+11341,63,Unemployed,High School,203788,21187,6,9.7,5,1.9,337526,48,1,1,High Risk
+11342,37,Self-Employed,Master,243300,68863,6,19.1,2,1.5,84319,36,0,1,Low Risk
+11343,65,Self-Employed,High School,118920,98927,6,15.5,3,2.2,283314,48,1,0,High Risk
+11344,63,Unemployed,Bachelor,227566,108113,3,19.4,4,3.1,654240,12,1,0,High Risk
+11345,54,Employed,High School,77785,85085,1,15.1,3,3.4,614433,12,0,1,High Risk
+11346,29,Unemployed,Bachelor,91050,118996,5,3.9,1,4.2,796427,48,0,1,High Risk
+11347,46,Employed,Bachelor,37738,40220,7,1.8,0,3.6,902058,24,1,1,Low Risk
+11348,22,Employed,Bachelor,89231,8642,5,11.8,4,3.4,972446,36,1,1,High Risk
+11349,29,Employed,High School,88606,80971,5,7.5,2,2.6,229643,48,1,1,High Risk
+11350,29,Employed,High School,242369,56556,7,5.9,0,2.9,812640,36,0,0,Low Risk
+11351,60,Employed,Bachelor,292267,34760,0,16.2,0,2.7,700538,60,1,1,Low Risk
+11352,37,Employed,Master,171688,39192,5,7.7,1,4.4,220244,48,1,1,Low Risk
+11353,21,Employed,Master,288326,5381,3,6.7,1,1.9,674399,24,0,1,Low Risk
+11354,45,Self-Employed,High School,177403,97583,2,17.1,1,1.0,24990,60,1,0,High Risk
+11355,63,Self-Employed,Bachelor,192170,20558,4,17.0,4,3.6,671801,48,0,1,Low Risk
+11356,60,Employed,High School,41128,31782,6,7.4,3,1.8,526641,12,1,0,High Risk
+11357,62,Employed,High School,46556,5782,5,16.7,0,4.6,139327,48,1,1,Low Risk
+11358,45,Employed,Bachelor,273470,92417,0,17.1,3,4.4,875746,12,1,1,Low Risk
+11359,59,Employed,Bachelor,167948,55712,3,8.8,3,1.3,973463,12,0,0,High Risk
+11360,55,Employed,High School,155021,106764,5,1.8,1,1.4,299006,48,1,1,High Risk
+11361,23,Employed,High School,66962,95945,7,0.5,3,3.0,430489,48,1,1,High Risk
+11362,57,Employed,High School,105054,20462,0,10.7,0,3.4,890381,12,1,1,Low Risk
+11363,64,Unemployed,Master,217278,61030,2,7.2,0,2.1,970004,36,0,1,Low Risk
+11364,64,Employed,PhD,39099,69519,1,19.9,5,3.9,664511,60,0,1,High Risk
+11365,50,Employed,High School,250943,57411,5,15.6,2,3.4,800388,24,1,1,Low Risk
+11366,58,Employed,High School,198683,56206,3,15.3,4,2.3,213161,48,1,0,High Risk
+11367,54,Employed,Master,184957,98469,0,19.1,3,1.1,360933,60,0,1,Low Risk
+11368,32,Employed,Master,211292,47950,7,17.8,4,4.0,361595,60,1,0,High Risk
+11369,39,Self-Employed,Bachelor,22837,3523,0,6.7,4,1.9,127782,36,1,1,High Risk
+11370,57,Employed,High School,195427,61926,5,3.7,4,4.3,798797,60,1,1,High Risk
+11371,64,Employed,High School,193371,10677,0,15.0,5,2.7,344348,48,1,0,High Risk
+11372,37,Unemployed,Bachelor,263003,76828,1,7.9,4,3.3,408216,60,1,0,High Risk
+11373,30,Unemployed,Bachelor,117413,16089,0,9.7,5,4.5,853504,48,0,1,High Risk
+11374,32,Self-Employed,High School,66012,5581,6,12.8,0,4.5,62499,48,0,1,Low Risk
+11375,36,Employed,Bachelor,145193,12907,4,18.2,3,2.5,267023,12,1,1,Low Risk
+11376,44,Self-Employed,High School,233168,6609,6,8.7,5,1.8,341355,36,1,1,High Risk
+11377,39,Employed,Master,163178,52153,4,15.8,2,4.1,153979,24,1,1,Low Risk
+11378,28,Employed,Bachelor,73123,51539,0,5.7,4,2.7,158408,12,1,1,High Risk
+11379,51,Employed,High School,126825,45143,7,14.1,2,1.8,881652,24,1,1,High Risk
+11380,41,Employed,Bachelor,23720,23936,7,0.5,0,4.6,890279,48,0,1,Low Risk
+11381,37,Employed,Bachelor,183733,51182,5,17.5,0,1.8,717691,12,1,0,Low Risk
+11382,43,Employed,PhD,261103,109261,7,1.1,1,1.1,381603,60,1,1,Low Risk
+11383,57,Unemployed,Bachelor,239970,112259,4,14.4,4,1.1,349899,60,1,1,High Risk
+11384,36,Unemployed,Bachelor,239866,100524,3,1.4,1,3.5,340927,24,1,0,High Risk
+11385,26,Self-Employed,Master,165862,96042,4,5.7,2,3.6,735311,48,1,0,Low Risk
+11386,28,Employed,Bachelor,73655,14163,6,10.2,3,2.2,717869,24,1,1,High Risk
+11387,45,Unemployed,Master,205715,60758,0,8.7,1,2.3,924283,36,0,1,High Risk
+11388,38,Employed,Bachelor,108448,47057,5,4.2,0,2.4,802904,60,0,0,Low Risk
+11389,45,Self-Employed,Bachelor,193446,13537,2,7.0,4,3.7,425596,12,1,1,High Risk
+11390,32,Employed,High School,188979,23419,5,14.7,2,1.2,375296,12,1,0,High Risk
+11391,35,Self-Employed,Bachelor,196143,43578,5,13.6,5,4.7,168352,12,0,1,High Risk
+11392,46,Employed,Master,135507,75991,5,1.9,0,1.9,162931,60,1,1,Low Risk
+11393,61,Unemployed,Master,75186,75599,3,15.1,5,5.0,240413,48,1,1,High Risk
+11394,65,Unemployed,High School,137066,1834,1,1.5,3,1.7,451618,60,1,0,High Risk
+11395,46,Employed,High School,196323,33214,6,11.1,4,4.1,149334,60,1,1,High Risk
+11396,52,Employed,Master,211243,93934,0,5.6,3,1.9,938570,12,1,0,High Risk
+11397,30,Unemployed,Master,51160,101028,1,12.0,3,1.3,156626,60,0,1,High Risk
+11398,36,Employed,High School,34156,3413,2,5.6,4,4.5,541296,12,1,1,Low Risk
+11399,27,Unemployed,Bachelor,91208,10505,1,19.7,4,4.4,884283,48,1,1,High Risk
+11400,37,Employed,Bachelor,164001,103802,0,6.5,5,2.6,90799,36,0,1,High Risk
+11401,43,Employed,Master,246226,3105,6,5.2,3,3.8,812670,12,1,1,Low Risk
+11402,46,Employed,High School,256766,69104,6,5.9,2,3.2,245018,24,1,1,Low Risk
+11403,41,Employed,High School,210413,108634,0,18.0,5,4.4,289297,36,1,1,High Risk
+11404,42,Self-Employed,Master,227909,115897,2,12.9,4,2.3,69353,48,1,1,High Risk
+11405,27,Employed,High School,80439,59408,0,14.7,0,3.1,586380,36,1,1,Low Risk
+11406,34,Employed,Bachelor,153266,38679,2,18.4,5,2.9,253907,12,1,1,Low Risk
+11407,35,Employed,Bachelor,217459,117908,2,18.3,1,2.4,708512,48,0,1,Low Risk
+11408,27,Employed,Bachelor,136361,115921,0,14.9,2,4.6,583392,24,1,1,Low Risk
+11409,29,Unemployed,Bachelor,227986,100096,4,4.4,5,1.7,165355,12,1,1,High Risk
+11410,28,Unemployed,Bachelor,212286,80731,6,16.9,4,1.6,449645,12,0,1,High Risk
+11411,43,Employed,High School,44777,113205,2,4.5,4,3.3,753894,48,1,0,High Risk
+11412,49,Self-Employed,Bachelor,271427,66131,0,15.0,2,3.6,982461,48,1,1,Low Risk
+11413,38,Self-Employed,Master,172255,65280,7,13.9,1,1.8,38887,36,1,1,Low Risk
+11414,51,Employed,Master,213110,16762,4,15.3,5,2.6,449388,24,0,1,High Risk
+11415,50,Unemployed,High School,196649,118798,6,10.9,5,4.8,800787,36,1,1,High Risk
+11416,59,Employed,High School,293011,117854,2,13.0,3,2.0,305845,36,0,0,Low Risk
+11417,55,Employed,Bachelor,77501,107830,6,19.1,0,3.7,182606,12,1,1,Low Risk
+11418,38,Unemployed,Bachelor,160338,59703,4,2.5,4,4.0,261420,48,1,1,High Risk
+11419,62,Employed,Bachelor,181280,82434,6,6.5,5,2.8,605730,12,1,1,High Risk
+11420,59,Self-Employed,Bachelor,136544,64079,3,12.4,5,4.8,988778,24,1,1,High Risk
+11421,37,Unemployed,High School,153439,22577,5,19.3,5,3.9,546567,36,0,1,High Risk
+11422,34,Employed,High School,270230,2214,3,2.4,1,2.8,708851,24,1,1,Low Risk
+11423,51,Unemployed,Bachelor,50362,87339,4,0.9,0,3.3,655026,48,1,1,High Risk
+11424,44,Employed,Bachelor,265449,49114,2,1.6,5,3.8,479363,48,1,1,High Risk
+11425,55,Employed,High School,184357,90234,0,1.5,2,3.4,673621,60,1,1,Low Risk
+11426,64,Self-Employed,Bachelor,141683,64230,1,18.2,4,4.5,669834,24,0,1,Low Risk
+11427,65,Unemployed,Bachelor,271157,33980,0,14.6,3,2.4,625702,12,0,1,High Risk
+11428,54,Employed,Master,220827,68194,6,13.7,2,2.2,824822,24,0,1,Low Risk
+11429,23,Employed,Master,217918,78806,1,10.7,4,1.9,430141,36,1,0,High Risk
+11430,57,Self-Employed,Bachelor,230757,113333,1,15.7,1,1.2,354318,48,0,1,High Risk
+11431,63,Self-Employed,High School,122669,38792,6,3.5,0,1.2,986555,48,0,1,High Risk
+11432,60,Self-Employed,Bachelor,223030,46807,6,8.1,0,4.5,230079,24,1,1,Low Risk
+11433,46,Employed,High School,173998,23301,2,10.1,4,3.7,539075,24,1,0,High Risk
+11434,43,Employed,Bachelor,118215,6141,4,2.7,2,3.6,252951,24,1,1,Low Risk
+11435,64,Employed,Master,113707,117482,7,8.7,3,3.5,214470,36,1,1,High Risk
+11436,59,Self-Employed,Bachelor,107837,105292,0,6.7,1,4.4,723537,36,1,1,Low Risk
+11437,35,Employed,Master,260847,14777,4,1.2,4,2.9,315868,12,1,1,High Risk
+11438,24,Employed,Bachelor,242544,39346,3,3.2,1,4.5,544951,24,1,1,Low Risk
+11439,49,Unemployed,High School,282614,55703,2,15.4,0,2.4,419336,12,1,1,Low Risk
+11440,42,Employed,Master,242467,95977,2,0.9,5,4.7,688100,60,0,1,High Risk
+11441,45,Unemployed,Bachelor,161025,48819,7,18.7,5,3.8,505262,36,0,1,High Risk
+11442,33,Self-Employed,Bachelor,250652,29469,3,2.2,3,2.0,143107,48,1,1,High Risk
+11443,38,Self-Employed,Bachelor,106493,4845,0,16.1,1,3.3,634559,60,1,1,Low Risk
+11444,53,Employed,High School,283667,111186,5,18.0,4,3.1,984947,48,1,1,High Risk
+11445,36,Employed,PhD,232995,24290,3,18.9,3,1.6,601676,60,1,0,Low Risk
+11446,65,Self-Employed,High School,203262,113551,0,17.4,2,3.4,62335,12,0,1,Low Risk
+11447,62,Self-Employed,PhD,60641,31699,1,6.1,5,2.3,53315,12,1,1,High Risk
+11448,64,Self-Employed,PhD,169062,45252,6,7.0,4,1.2,991669,36,1,1,High Risk
+11449,22,Employed,Master,44661,99682,2,8.8,1,4.8,901354,48,1,1,Low Risk
+11450,55,Self-Employed,Bachelor,159491,4293,0,3.2,3,3.6,318771,60,0,1,High Risk
+11451,62,Self-Employed,Bachelor,291601,119017,4,0.9,4,4.5,411519,24,0,1,High Risk
+11452,54,Self-Employed,Master,118619,110934,7,17.4,3,3.7,512870,24,1,1,High Risk
+11453,50,Self-Employed,Bachelor,48085,58089,6,11.3,3,2.4,59334,36,1,1,High Risk
+11454,33,Self-Employed,Bachelor,112064,112964,4,12.4,3,3.1,196964,48,0,1,High Risk
+11455,33,Self-Employed,Bachelor,196726,17608,6,18.6,1,3.7,202268,24,0,1,Low Risk
+11456,38,Employed,Bachelor,120723,67273,2,13.5,4,4.8,862132,36,1,1,Low Risk
+11457,52,Employed,Bachelor,148114,17619,3,14.0,0,2.0,49726,36,1,0,Low Risk
+11458,52,Employed,Bachelor,48477,79006,5,15.8,0,4.5,503657,48,0,1,Low Risk
+11459,55,Employed,Bachelor,129161,116399,3,2.8,1,4.7,216823,24,1,0,Low Risk
+11460,59,Employed,Master,174788,88908,0,7.5,1,3.7,714966,24,1,1,Low Risk
+11461,49,Employed,High School,154133,82653,7,19.4,5,4.7,782333,24,1,1,High Risk
+11462,49,Employed,Master,154681,15779,3,18.5,3,2.6,827126,12,1,0,Low Risk
+11463,64,Employed,Bachelor,256422,52040,2,17.7,4,4.8,172325,24,1,1,Low Risk
+11464,36,Self-Employed,Master,285001,95830,7,9.3,4,3.8,689590,60,1,1,High Risk
+11465,64,Unemployed,Bachelor,157692,57325,0,17.2,2,1.2,195046,12,1,1,High Risk
+11466,30,Employed,Master,23177,116947,1,1.4,2,4.6,859977,12,1,1,Low Risk
+11467,50,Unemployed,High School,266842,22630,3,3.4,0,2.9,420141,12,1,1,Low Risk
+11468,45,Employed,Master,104941,106575,3,8.6,2,2.8,802465,12,1,1,Low Risk
+11469,59,Employed,High School,273121,116436,5,9.9,2,3.3,596749,36,1,1,High Risk
+11470,40,Employed,Master,26826,13178,0,5.6,0,1.6,799097,60,0,0,Low Risk
+11471,25,Employed,PhD,159962,20935,4,7.5,5,2.9,299169,48,1,1,High Risk
+11472,21,Self-Employed,Bachelor,141044,48258,3,3.7,0,4.3,426749,24,1,1,Low Risk
+11473,50,Self-Employed,High School,204103,23784,2,10.0,2,1.1,973401,12,1,1,High Risk
+11474,23,Employed,Master,20495,64722,3,16.0,4,2.1,874093,48,1,1,High Risk
+11475,65,Employed,Bachelor,43481,24027,5,13.4,2,1.0,916905,36,0,1,High Risk
+11476,34,Employed,Master,157339,97544,1,2.6,3,2.7,528982,48,1,1,Low Risk
+11477,50,Employed,High School,251774,58853,5,10.0,3,3.9,293142,12,1,1,Low Risk
+11478,24,Employed,High School,152815,113167,3,14.1,3,4.2,333392,60,1,0,Low Risk
+11479,38,Employed,PhD,118475,68359,7,10.8,5,4.8,638781,48,1,1,High Risk
+11480,57,Self-Employed,Bachelor,194845,73388,4,8.1,1,3.4,295201,12,1,1,Low Risk
+11481,45,Unemployed,Master,64476,79608,6,12.6,3,2.0,613532,12,1,1,High Risk
+11482,21,Employed,Bachelor,238177,77669,3,19.4,4,4.7,224680,24,1,1,Low Risk
+11483,35,Unemployed,Bachelor,211314,16111,0,2.4,5,4.1,211703,24,1,0,High Risk
+11484,29,Employed,Bachelor,175020,33312,3,8.1,1,3.3,369175,60,1,1,Low Risk
+11485,35,Employed,Bachelor,222383,25161,4,8.4,1,3.8,909145,24,1,1,Low Risk
+11486,44,Employed,Bachelor,84093,119920,0,11.8,3,4.7,640175,60,1,1,Low Risk
+11487,24,Self-Employed,Bachelor,84123,105823,2,3.5,2,3.8,525728,36,0,1,High Risk
+11488,32,Unemployed,Bachelor,31535,68313,7,3.9,0,2.5,77173,36,1,1,High Risk
+11489,57,Self-Employed,Bachelor,61562,51374,0,6.1,2,3.9,745566,24,1,1,Low Risk
+11490,57,Employed,Master,271323,25014,5,19.1,2,1.2,48734,36,1,1,Low Risk
+11491,63,Self-Employed,High School,273916,81308,1,14.8,1,2.5,596360,48,1,1,Low Risk
+11492,26,Employed,Bachelor,204607,47389,5,13.4,1,2.6,467391,48,1,0,Low Risk
+11493,59,Unemployed,High School,245063,111163,6,16.4,5,1.7,244046,48,1,1,High Risk
+11494,44,Employed,Bachelor,56269,19161,0,3.0,5,1.1,204855,36,1,0,High Risk
+11495,31,Employed,Master,95674,108800,2,17.3,1,1.5,366338,48,1,1,Low Risk
+11496,33,Employed,High School,92095,8490,3,12.1,4,3.6,736099,60,0,1,High Risk
+11497,54,Self-Employed,High School,259172,108197,7,7.0,4,4.2,228126,12,1,1,High Risk
+11498,45,Employed,High School,215003,25502,0,16.4,0,5.0,454258,24,1,1,Low Risk
+11499,27,Self-Employed,Bachelor,105925,36757,5,16.2,1,2.4,717717,60,1,1,Low Risk
+11500,24,Employed,Master,81381,42111,0,17.0,3,3.4,149741,48,1,1,Low Risk
